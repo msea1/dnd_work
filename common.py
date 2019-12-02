@@ -3,6 +3,8 @@
 # coords are x,y from upper-left
 
 # DIMENSIONS
+from svgwrite.path import Path
+
 DPI = 96
 PAGE_WIDTH_PX = 816
 PAGE_HEIGHT_PX = 1056
@@ -83,10 +85,11 @@ def add_closure():
     return ['z']
 
 
-def parse_svg_curve(input_str):
+def parse_svg_d_info(input_str):
+    shape = Path()
     # (-*\d+\.*\d*), *(-*\d+\.*\d*) (-*\d+\.*\d*), *(-*\d+\.*\d*) (-*\d+\.*\d*), *(-*\d+\.*\d*)
     # viper.push(create_curve($1, $2, $3, $4, $5, $6))\n
-    pass
+    return shape
 
 
 def move_to_calcs(start_coords, shape_offset):
