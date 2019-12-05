@@ -1,5 +1,6 @@
 # painting attr: https://www.w3.org/TR/SVG/painting.html
 # svgwrite docs: https://svgwrite.readthedocs.io/en/master/
+# potential way to create gifs - https://pypi.org/project/drawSvg/ or https://github.com/mozman/svgwrite/blob/master/svgwrite/animate.py
 # coords are x,y from upper-left
 
 # DIMENSIONS
@@ -25,6 +26,14 @@ def invert_y_axis(inkscape_value):
 
 def convert_in_to_px(inch_value):
     return inch_value * DPI
+
+
+def bounding_box(svg, x, y, width, height, stroke=1):
+    return svg.rect(insert=(x, y),
+                    size=(width, height),
+                    stroke_width=f"{stroke}",
+                    stroke="green",
+                    fill_opacity="0")
 
 
 def move_cursor_to(upper_left_pixel_horizontal, upper_left_pixel_vertical):
