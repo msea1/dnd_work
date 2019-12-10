@@ -1,6 +1,9 @@
 # painting attr: https://www.w3.org/TR/SVG/painting.html
 # svgwrite docs: https://svgwrite.readthedocs.io/en/master/
 # potential way to create gifs - https://pypi.org/project/drawSvg/ or https://github.com/mozman/svgwrite/blob/master/svgwrite/animate.py
+# examples: https://drive.google.com/drive/u/0/folders/0BwFQiTKfux0qY1Y2d1hRdndtSEk
+
+
 # coords are x,y from upper-left
 
 # DIMENSIONS
