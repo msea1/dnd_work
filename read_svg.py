@@ -32,6 +32,7 @@ def isolate_path(filepath_in, filename_out):
     paths, _ = svg2paths(filepath_in)
     paths = remove_canvas(paths)
     paths = break_up_paths(paths)
+    paths = [p for p in paths if len(p) > 0]
     svg_doc = disvg(paths, filename=filename_out, paths2Drawing=True)
     bbox = big_bounding_box(paths)
     svg_doc.viewbox(minx=bbox[0], width=bbox[1] - bbox[0], miny=bbox[2], height=bbox[3] - bbox[2])

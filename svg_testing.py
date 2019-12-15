@@ -9,7 +9,7 @@ from svgwrite.path import Path
 from svg_sheets.common import move_cursor_to, move_to_calcs, scaler_calcs
 
 # TODO editor to chop up existing svg
-# TODO, colors
+# TODO, colors, transparency, etc
 
 from math import ceil
 from os.path import join
@@ -49,7 +49,7 @@ def create_doc(filename, all_paths):
     return Drawing(filename=filename, size=(dx, dy), viewBox=viewbox)
 
 
-def create_path(dwg, paths, attributes):
+def create_path(dwg, paths):
     for i, p in enumerate(paths):
         if isinstance(p, spt_Path):
             ps = p.d()
@@ -57,31 +57,19 @@ def create_path(dwg, paths, attributes):
             ps = spt_Path(p).d()
         else:  # assume this path, p, was input as a Path d-string
             ps = p
-
-        if attributes:
-            good_attribs = {'d': ps}
-            for key in attributes[i]:
-                val = attributes[i][key]
-                if key != 'd':
-                    dwg.path(ps, **{key: val})
-                    good_attribs.update({key: val})
-
-            return dwg.path(**good_attribs)
-        else:
-            return dwg.path(ps, stroke='#000000', stroke_width="1", fill='none')
+        return dwg.path(ps, stroke='#000000', stroke_width="1", fill='#000000')
 
 
 svg_dir = '/home/mcarruth/Code/personal/svg_sheets/shapes/'
-all_paths, all_attrs = svg2paths(join(svg_dir, 'bear.svg'))
+all_paths, _ = svg2paths(join(svg_dir, 'bear.svg'))
 # bbox = big_bounding_box(bear_paths)
-raven_paths, raven_attr_dict = svg2paths(join(svg_dir, 'viper2.svg'))
+raven_paths, _ = svg2paths(join(svg_dir, 'viper2.svg'))
 # bbox2 = big_bounding_box(raven_paths)
 
 all_paths.extend(raven_paths)
-all_attrs.extend(raven_attr_dict)
 svg_doc = create_doc('testing.svg', all_paths)
-p1 = create_path(svg_doc, [all_paths[0]], [all_attrs[0]])
-p2 = create_path(svg_doc, [all_paths[1]], [all_attrs[1]])
+p1 = create_path(svg_doc, [all_paths[0]])
+p2 = create_path(svg_doc, [all_paths[1]])
 g1 = svg_doc.g()
 g2 = svg_doc.g()
 g1.add(p1)
