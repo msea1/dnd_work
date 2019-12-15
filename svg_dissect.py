@@ -9,7 +9,6 @@ from svg_sheets.common import add_closure, create_absolute_curve, create_curve, 
     move_to_calcs, relative_move, scaler_calcs
 
 
-# TODO, move shapes to 0,0 and relative movements?
 
 
 def abcdef(start_x, start_y, end_x=None, end_y=None, relative_size_x=None, relative_size_y=None):

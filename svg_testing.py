@@ -8,9 +8,6 @@ from svgwrite.path import Path
 
 from svg_sheets.common import move_cursor_to, move_to_calcs, scaler_calcs
 
-# TODO editor to chop up existing svg
-# TODO, colors, transparency, etc
-
 from math import ceil
 from os.path import join
 
