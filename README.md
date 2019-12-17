@@ -2,14 +2,11 @@
 
 ## Tasks
 - move shapes to 0,0 and relative movements?
-- how to mirror
 - clean up shapes / patterns
 - add color methods, both draw and fill
 - add text options, with font
 - clean up
 - testing
-- more shapes, etc
-    - str, dex, etc backgrounds
 - how to share / profit?
 
 
@@ -26,6 +23,6 @@
 - load into Inkscape
 - select image, shift-alt-b to trace bitmap, up thresholds
 - drag result over, select original image, delete
-- ctrl + L to simplify path
+- ctrl + L to simplify path (optionally)
 - select trace, shift-ctrl-r to resize, save
 

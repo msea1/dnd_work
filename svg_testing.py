@@ -64,7 +64,7 @@ raven_paths, _ = svg2paths(join(svg_dir, 'viper2.svg'))
 # bbox2 = big_bounding_box(raven_paths)
 
 all_paths.extend(raven_paths)
-svg_doc = create_doc('testing.svg', all_paths)
+svg_doc = create_doc('alignment.svg', all_paths)
 p1 = create_path(svg_doc, [all_paths[0]])
 p2 = create_path(svg_doc, [all_paths[1]])
 g1 = svg_doc.g()
@@ -78,6 +78,9 @@ svg_doc.add(g2)
 g2.translate(150, 5)
 g1.scale(.8, 1)
 g2.rotate(90)
+
+# mirror
+# transform="translate(100, 0) scale(-1, 1) -- translate to move it, this mirrors along x-axis
 
 # redo viewbox bound post mixins
 # TODO -
