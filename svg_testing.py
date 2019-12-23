@@ -6,7 +6,7 @@ from svgpathtools.paths2svg import big_bounding_box
 from svgwrite import Drawing
 from svgwrite.path import Path
 
-from svg_sheets.common import move_cursor_to, move_to_calcs, scaler_calcs
+from svg_sheets.common import move_cursor_to, move_to_calcs, scaler_calcs, create_path
 
 from math import ceil
 from os.path import join
@@ -46,26 +46,15 @@ def create_doc(filename, all_paths):
     return Drawing(filename=filename, size=(dx, dy), viewBox=viewbox)
 
 
-def create_path(dwg, paths):
-    for i, p in enumerate(paths):
-        if isinstance(p, spt_Path):
-            ps = p.d()
-        elif type(p) in (Line, QuadraticBezier, CubicBezier, Arc):
-            ps = spt_Path(p).d()
-        else:  # assume this path, p, was input as a Path d-string
-            ps = p
-        return dwg.path(ps, stroke='#000000', stroke_width="1", fill='#000000')
-
-
-svg_dir = '/home/mcarruth/Code/personal/svg_sheets/shapes/'
+svg_dir = '/home/mcarruth/Code/personal/svg_sheets/shapes/animals/'
 all_paths, _ = svg2paths(join(svg_dir, 'bear.svg'))
 # bbox = big_bounding_box(bear_paths)
 raven_paths, _ = svg2paths(join(svg_dir, 'viper2.svg'))
 # bbox2 = big_bounding_box(raven_paths)
 
 all_paths.extend(raven_paths)
-svg_doc = create_doc('alignment.svg', all_paths)
-p1 = create_path(svg_doc, [all_paths[0]])
+svg_doc = create_doc('testing.svg', all_paths)
+p1 = create_path(svg_doc, [all_paths[0]], '#555555', 5, 'none')
 p2 = create_path(svg_doc, [all_paths[1]])
 g1 = svg_doc.g()
 g2 = svg_doc.g()

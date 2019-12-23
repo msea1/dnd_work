@@ -4,7 +4,7 @@
 # examples: https://drive.google.com/drive/u/0/folders/0BwFQiTKfux0qY1Y2d1hRdndtSEk
 # docs http://tutorials.jenkov.com/svg/svg-transformation.html
 
-
+from svgpathtools import Arc, CubicBezier, Line, Path as spt_Path, QuadraticBezier
 # coords are x,y from upper-left
 
 # DIMENSIONS
@@ -22,6 +22,23 @@ MIN_X = 0
 MIN_Y = 0
 MAX_X = 0
 MAX_Y = 0
+
+
+def create_path(dwg, paths, stroke='#000000', width=1, fill='#000000'):
+    for i, p in enumerate(paths):
+        if isinstance(p, spt_Path):
+            ps = p.d()
+        elif type(p) in (Line, QuadraticBezier, CubicBezier, Arc):
+            ps = spt_Path(p).d()
+        else:  # assume this path, p, was input as a Path d-string
+            ps = p
+        return dwg.path(ps, stroke=stroke, stroke_width=f"{width}", fill=fill)
+
+
+def determine_stroke_width(desired_percentage, path):
+    # figure out path dimensions or length?
+    # scale to desired
+    pass
 
 
 def invert_y_axis(inkscape_value):

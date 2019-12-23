@@ -1,13 +1,14 @@
 # svg_sheets
 
 ## Tasks
-- move shapes to 0,0 and relative movements?
-- clean up shapes / patterns
-- add color methods, both draw and fill
-- add text options, with font
-- clean up
-- testing
-- how to share / profit?
+- building a sheet
+    - move shapes to 0,0 and relative movements?
+    - add text options, with font
+
+- sprucing up
+    - clean up
+    - testing
+    - how to share / profit?
 
 
 ## Image to SVG/Path
