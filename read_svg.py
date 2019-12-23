@@ -39,4 +39,4 @@ def isolate_path(filepath_in, filename_out):
     svg_doc.save(pretty=True)
 
 
-isolate_path('./alignment.svg', 'shapes/testing.svg')
+isolate_path('./wisdom.svg', 'shapes/testing.svg')
