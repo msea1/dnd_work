@@ -1,24 +1,59 @@
-from math import ceil
-from os.path import join
+from svg_sheets.common import create_paths
 
-from svgpathtools import disvg, svg2paths, Arc, Line, QuadraticBezier, CubicBezier, Path as spt_Path
+from svgpathtools import svg2paths
 from svgpathtools.paths2svg import big_bounding_box
 from svgwrite import Drawing
-from svgwrite.path import Path
 
-from svg_sheets.common import move_cursor_to, move_to_calcs, scaler_calcs, create_path
-
-from math import ceil
-from os.path import join
-
-from svgpathtools import Arc, CubicBezier, Line, Path as spt_Path, QuadraticBezier, svg2paths
-from svgpathtools.paths2svg import big_bounding_box
-from svgwrite import Drawing
+from svg_sheets.common import create_paths
 
 DPI = 96
 PAGE_WIDTH_PX = 816
 PAGE_HEIGHT_PX = 1056
 BUMPER_PX = 20  # printing margin
+
+
+class Group:
+    def __init__(self, name, svg_doc):
+        self.ref_id = name
+        self.doc = svg_doc
+        self.group = svg_doc.g()
+        self.position = [0, 0]
+        self.size = [0, 0]
+
+    def adjust_in_doc(self):
+        self.doc.elements.remove(self.group)
+        self.doc.add(self.group)
+        self.doc.save(pretty=True)
+
+    def move(self, dx=0, dy=0):
+        # TODO translations and scales keep stacking, would be nive to simplyify them
+        self.position[0] += dx
+        self.position[1] += dy
+        self.group.translate(dx, dy)
+        self.adjust_in_doc()
+
+    def scale(self, sx=1, sy=1):
+        self.size[0] *= abs(sx)
+        self.size[1] *= abs(sy)
+        if sx < 0:
+            self.position[0] -= self.size[0]
+        if sy < 0:
+            self.position[1] -= self.size[1]  # TODO check these
+        self.group.scale(sx, sy)
+        self.adjust_in_doc()
+
+    def mirror_x(self):
+        self.scale(sx=-1)
+        self.move(dx=-self.size[0])
+        self.adjust_in_doc()
+
+    def matrix(self):
+        cx = self.position[0]
+        cy = self.position[1]
+        # TODO, related to above stacking and such, matrix needs to be simplified
+        self.group.matrix(-1, 0, 0, 1, cx - -1 * cx, cy - 1 * cy)
+        self.move(dx=-self.size[0])
+        self.adjust_in_doc()
 
 
 class Build:
@@ -31,47 +66,41 @@ class Build:
         svg_doc.save(pretty=True)
         self.svg_doc = svg_doc
 
-    def create_paths(self, paths, stroke='#000000', width=1, fill='#000000'):
-        path_objs = []
-        for i, p in enumerate(paths):
-            if isinstance(p, spt_Path):
-                ps = p.d()
-            elif type(p) in (Line, QuadraticBezier, CubicBezier, Arc):
-                ps = spt_Path(p).d()
-            else:  # assume this path, p, was input as a Path d-string
-                ps = p
-            path_objs.append(self.svg_doc.path(ps, stroke=stroke, stroke_width=f"{width}", fill=fill))
-        return path_objs
+    def create_group(self, name):
+        group = Group(name, self.svg_doc)
+        self.groups[name] = group
+        return group
 
-    def move_group(self, group_name, dx=0, dy=0):
-        svg_group, _ = self.groups[group_name]
-        svg_group.translate(dx, dy)
-        self.svg_doc.elements.remove(svg_group)
-        self.svg_doc.add(svg_group)
-        self.svg_doc.save(pretty=True)
-
-    def mirror_group_x(self, group_name):
-        svg_group, orig_paths = self.groups[group_name]
-        svg_group.scale(-1, 1)
-        x_min, x_max, _, _ = big_bounding_box(orig_paths)
-        dx = x_max - x_min
-        self.move_group(group_name, -1 * dx)
-
-    def add_shape(self, filepath, name='name_banner'):
-        shape = self.svg_doc.g()
+    def add_shape(self, filepath, name='shape_name'):
+        shape = self.create_group(name)
         orig_paths, _ = svg2paths(filepath)
-        paths = self.create_paths(orig_paths, fill='none')
+        x_min, x_max, y_min, y_max = big_bounding_box(orig_paths)
+        dx = x_max - x_min
+        dy = y_max - y_min
+        shape.size = [dx, dy]
+        paths = create_paths(orig_paths, fill='none')
         for p in paths:
-            shape.add(p)
-        self.groups[name] = (shape, orig_paths)
-        self.svg_doc.add(shape)
+            shape.group.add(p)
+        self.svg_doc.add(shape.group)
         self.svg_doc.save(pretty=True)
+        return shape
 
 
 b = Build()
 b.create_portrait_doc()
-b.add_shape('./shapes/containers/header.svg', 'left_name_banner')
-b.add_shape('./shapes/containers/header.svg', 'right_name_banner')
-b.mirror_group_x('right_name_banner')
-b.move_group('right_name_banner')
+left_banner = b.add_shape('./shapes/containers/header.svg', 'left_name_banner')
+left_banner.move(20, 20)
+right_banner = b.add_shape('./shapes/containers/header.svg', 'right_name_banner')
+right_banner.move(20, 20)
+right_banner.mirror_x()
+right_banner.move(-1 * left_banner.size[0])
+right_banner.mirror_x()
+left_banner.mirror_x()
+# right_banner.matrix()
 
+
+# FIXME, test cases
+# mirror, move, mirror
+# move, matrix
+# move, mirror, move <-- flipping of signs, latter move has to be 'negative'
+# slowness to render

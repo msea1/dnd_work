@@ -24,7 +24,8 @@ MAX_X = 0
 MAX_Y = 0
 
 
-def create_path(dwg, paths, stroke='#000000', width=1, fill='#000000'):
+def create_paths(paths, stroke='#000000', width=1, fill='#000000'):
+    path_objs = []
     for i, p in enumerate(paths):
         if isinstance(p, spt_Path):
             ps = p.d()
@@ -32,7 +33,9 @@ def create_path(dwg, paths, stroke='#000000', width=1, fill='#000000'):
             ps = spt_Path(p).d()
         else:  # assume this path, p, was input as a Path d-string
             ps = p
-        return dwg.path(ps, stroke=stroke, stroke_width=f"{width}", fill=fill)
+        path_objs.append(Path(ps, stroke=stroke, stroke_width=f"{width}", fill=fill))
+    return path_objs
+
 
 
 def determine_stroke_width(desired_percentage, path):
