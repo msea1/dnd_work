@@ -1,6 +1,8 @@
 from svgpathtools import disvg, svg2paths
 from svgpathtools.paths2svg import big_bounding_box
 
+from svg_sheets.svgs.common import SVG_SHAPE_PARTS
+
 
 def remove_canvas(path_list):
     rects = []
@@ -28,15 +30,27 @@ def break_up_paths(path_list):
     return new_paths
 
 
+def clean_path(path, places=1):
+    setattr(path, 'start', round(path.start.real, places) + 1j * round(path.start.imag, places))
+    setattr(path, 'end', round(path.end.real, places) + 1j * round(path.end.imag, places))
+    for s in path._segments:
+        for a in SVG_SHAPE_PARTS:
+            if hasattr(s, a):
+                cur_val = getattr(s, a)
+                setattr(s, a, round(cur_val.real, places) + 1j * round(cur_val.imag, places))
+    return path
+
+
 def isolate_path(filepath_in, filename_out):
     paths, _ = svg2paths(filepath_in)
-    paths = remove_canvas(paths)
+    # paths = remove_canvas(paths)
     paths = break_up_paths(paths)
     paths = [p for p in paths if len(p) > 0]
+    paths = [clean_path(p) for p in paths]
     svg_doc = disvg(paths, filename=filename_out, paths2Drawing=True, mindim=200)
     bbox = big_bounding_box(paths)
     svg_doc.viewbox(minx=bbox[0], width=bbox[1] - bbox[0], miny=bbox[2], height=bbox[3] - bbox[2])
     svg_doc.save(pretty=True)
 
 
-isolate_path('./wisdom.svg', 'shapes/testing.svg')
+isolate_path('./shapes/containers/banner.svg', 'shapes/testing.svg')

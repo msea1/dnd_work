@@ -1,11 +1,8 @@
 from xml.dom import minidom
 
 from svgwrite.path import Path
-from svgpathtools import disvg, svg2paths
-from svgpathtools.paths2svg import big_bounding_box
 
-
-from svg_sheets.common import add_closure, create_absolute_curve, create_curve, draw_absolute_line, draw_relative_line, move_cursor_to, \
+from svg_sheets.svgs.common import add_closure, move_cursor_to, \
     move_to_calcs, relative_move, scaler_calcs
 
 

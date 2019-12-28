@@ -2,13 +2,16 @@
 
 ## Tasks
 - building a sheet
-    - move shapes to 0,0 and relative movements?
+    - snap to other group
+        - formulas for transformations
+    - multiple colors per shape
     - add text options, with font
 
 - sprucing up
     - clean up
     - testing
     - how to share / profit?
+    - timeit to speed up
 
 
 ## Image to SVG/Path

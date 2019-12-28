@@ -3,17 +3,16 @@
 # potential way to create gifs - https://pypi.org/project/drawSvg/ or https://github.com/mozman/svgwrite/blob/master/svgwrite/animate.py
 # examples: https://drive.google.com/drive/u/0/folders/0BwFQiTKfux0qY1Y2d1hRdndtSEk
 # docs http://tutorials.jenkov.com/svg/svg-transformation.html
+# translations: https://www.sarasoueidan.com/blog/svg-transformations/
+
 
 from svgpathtools import Arc, CubicBezier, Line, Path as spt_Path, QuadraticBezier
-# coords are x,y from upper-left
-
-# DIMENSIONS
 from svgwrite.path import Path
 
-DPI = 96
-PAGE_WIDTH_PX = 816
-PAGE_HEIGHT_PX = 1056
-BUMBER_PX = 20  # printing margin
+from svg_sheets.utils import determine_stroke_width
+
+SVG_SHAPE_PARTS = ("start", "end", "radius", "control", "control1", "control2")
+SVG_TRANSFORMATIONS = ("translate", "rotate", "scale", "skewX", "skewY", "matrix")
 
 # DIAGNOSTICS
 CURRENT_X = 0
@@ -24,7 +23,7 @@ MAX_X = 0
 MAX_Y = 0
 
 
-def create_paths(paths, stroke='#000000', width=1, fill='#000000'):
+def create_paths(paths, full_size, stroke='#000000', min_width=1, fill='#000000'):
     path_objs = []
     for i, p in enumerate(paths):
         if isinstance(p, spt_Path):
@@ -33,23 +32,9 @@ def create_paths(paths, stroke='#000000', width=1, fill='#000000'):
             ps = spt_Path(p).d()
         else:  # assume this path, p, was input as a Path d-string
             ps = p
-        path_objs.append(Path(ps, stroke=stroke, stroke_width=f"{width}", fill=fill))
+        path_len = determine_stroke_width(p, full_size, min_width)
+        path_objs.append(Path(ps, stroke=stroke, stroke_width=f"{path_len}", fill=fill))
     return path_objs
-
-
-
-def determine_stroke_width(desired_percentage, path):
-    # figure out path dimensions or length?
-    # scale to desired
-    pass
-
-
-def invert_y_axis(inkscape_value):
-    return PAGE_HEIGHT_PX - inkscape_value
-
-
-def convert_in_to_px(inch_value):
-    return inch_value * DPI
 
 
 def bounding_box(svg, x, y, width, height, stroke=1):
@@ -60,6 +45,7 @@ def bounding_box(svg, x, y, width, height, stroke=1):
                     fill_opacity="0")
 
 
+# BELOW likely unused
 def move_cursor_to(upper_left_pixel_horizontal, upper_left_pixel_vertical):
     global CURRENT_X, CURRENT_Y
     CURRENT_X = upper_left_pixel_horizontal
