@@ -17,8 +17,8 @@ class Builder:
         self.svg_doc = None
         self.groups = {}
 
-    def create_portrait_doc(self, filename='testing.svg'):
-        svg_doc = Drawing(filename=filename, size=(f'{PAGE_WIDTH_PX}px', f'{PAGE_HEIGHT_PX}px'), profile='tiny')
+    def create_portrait_doc(self, doc_width=PAGE_WIDTH_PX, doc_height=PAGE_HEIGHT_PX, filename='testing.svg'):
+        svg_doc = Drawing(filename=filename, size=(f'{doc_width}px', f'{doc_height}px'), profile='tiny')
         svg_doc.save(pretty=True)
         self.svg_doc = svg_doc
 
@@ -41,14 +41,14 @@ class Builder:
 
 
 b = Builder()
-b.create_portrait_doc()
+b.create_portrait_doc(doc_width=500, doc_height=500)
 # left_banner = b.add_shape('./shapes/containers/banner.svg', 'left_name_banner')
 
 right_banner = b.add_shape('./shapes/containers/header.svg', 'right_name_banner')
 right_banner.stretch_to(100, 100)
-right_banner.move(250, 250)
-right_banner.flip(along_x=True)
-right_banner.stretch(stretch_right=150)  # scale(1.39,1.0) translate(-150,0)  # FIXME
+# right_banner.move(250, 250)
+# right_banner.flip(along_x=True)
+# right_banner.stretch(stretch_right=150)  # scale(1.39,1.0) translate(-150,0)  # FIXME
 
 
 # FIXME, test cases

@@ -1,5 +1,5 @@
 from svg_sheets.svgs.properties import Dimension, Position
-from svg_sheets.utils import determine_scale
+from svg_sheets.utils import determine_scale, center_of_group
 
 
 class Group:
@@ -19,8 +19,22 @@ class Group:
 
     def adjust_in_doc(self):
         self.doc.elements.remove(self.group)
+        self.create_translations()
         self.doc.add(self.group)
         self.doc.save(pretty=True)
+
+    def create_translations(self):
+        # current = self.group.attribs.get('transform')
+        refreshed = ""
+        if self.position.location.x > 0 or self.position.location.y > 0:
+            refreshed += f"translate({self.position.location.x},{self.position.location.y}) "
+        if self.rotation != 0:
+            origin_x, origin_y = center_of_group(self.size)
+            refreshed += f"rotate({self.rotation},{origin_x + self.position.location.x},{origin_y + self.position.location.y}) "
+        if self.scale.x > 0 or self.scale.y > 0:
+            refreshed += f"scale({self.scale.x},{self.scale.y}) "
+        if len(refreshed) > 0:
+            self.group.attribs['transform'] = refreshed
 
     def move(self, move_right=0, move_down=0):
         self.position.location.x += move_right
@@ -29,9 +43,9 @@ class Group:
         dx = move_right if self.positive_right else -move_right
         dy = move_down if self.positive_down else -move_down
 
-        self.position.origin.x += dx  # FIXME
+        self.position.origin.x += dx
         self.position.origin.y += dy
-        self.group.translate(dx, dy)
+        # self.group.translate(dx, dy)
         self.adjust_in_doc()
 
     def flip(self, along_x=False, along_y=False):
@@ -39,17 +53,19 @@ class Group:
             return
         if along_x:
             self.positive_right = not self.positive_right
+            self.scale.x *= -1
             if self.positive_right:  # moved from neg --> pos
                 self.position.location.x = self.position.origin.x
             else:  # moved from pos --> neg
                 self.position.location.x = self.position.origin.x - self.size.x
         if along_y:
             self.positive_down = not self.positive_down
+            self.scale.y *= -1
             if self.positive_down:  # moved from neg --> pos
                 self.position.location.y = self.position.origin.y
             else:  # moved from pos --> neg
                 self.position.location.y = self.position.origin.y - self.size.y
-        self.group.scale(-1 if along_x else 1, -1 if along_y else 1)
+        # self.group.scale(-1 if along_x else 1, -1 if along_y else 1)
         self.adjust_in_doc()
 
     def stretch(self, stretch_right=0, stretch_down=0):
@@ -58,14 +74,19 @@ class Group:
             print(f'unable to stretch into negative space')
             return
 
-        scale_x = determine_scale(stretch_right, self.size.x)
-        scale_y = determine_scale(stretch_down, self.size.y)
-
-        self.group.scale(scale_x, scale_y)
-
+        # size
         self.size.x += stretch_right
         self.size.y += stretch_down
 
+        # scale
+        scale_x = determine_scale(stretch_right, self.size.x)
+        scale_y = determine_scale(stretch_down, self.size.y)
+
+        self.scale.x *= scale_x
+        self.scale.y *= scale_y
+        # self.group.scale(scale_x, scale_y)
+
+        # move
         dx = 0 if self.positive_right else stretch_right
         dy = 0 if self.positive_down else stretch_down
         self.move(dx, dy)
@@ -82,18 +103,3 @@ class Group:
         # The positive direction of rotation is clockwise.
         # self.group.rotate(45, (100, 100))
         pass
-
-    def _simplify_transformations(self):
-        # TODO translations and scales keep stacking, would be nice to simplify them
-        current = self.group.attribs.get('transform')
-        if current is not None:
-            types = ("translate", "rotate", "scale", "skewX", "skewY", "matrix")
-            transformations = {t: [] for t in types}
-            transforms = current.split()
-            for t in transforms:
-                transformation = t[:t.index('(')]
-                transformations[transformation].append(t[t.index['(']:])
-            for t, n in transformations.items():
-                if len(n) > 0:
-                    # how to stack depends on the type I think
-                    print(t, n)
