@@ -2,7 +2,7 @@ from svgpathtools import svg2paths
 from svgpathtools.paths2svg import big_bounding_box
 from svgwrite import Drawing
 
-from svg_sheets.svgs.common import create_paths
+from svg_sheets.svgs.common import create_paths, bounding_box
 from svg_sheets.svgs.properties import Dimension
 from svg_sheets.svgs.svg_group import Group
 
@@ -46,13 +46,7 @@ b.create_portrait_doc(doc_width=500, doc_height=500)
 
 right_banner = b.add_shape('./shapes/containers/header.svg', 'right_name_banner')
 right_banner.stretch_to(100, 100)
-# right_banner.move(250, 250)
-# right_banner.flip(along_x=True)
-# right_banner.stretch(stretch_right=150)  # scale(1.39,1.0) translate(-150,0)  # FIXME
-
-
-# FIXME, test cases
-# mirror, move, mirror
-# move, matrix
-# move, mirror, move <-- flipping of signs, latter move has to be 'negative'
-# slowness to render
+right_banner.move(200, 200)
+right_banner.flip(along_x=True)
+right_banner.stretch(stretch_right=150)
+right_banner.rotate(20)

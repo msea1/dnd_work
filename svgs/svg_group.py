@@ -1,5 +1,5 @@
 from svg_sheets.svgs.properties import Dimension, Position
-from svg_sheets.utils import determine_scale, center_of_group
+from svg_sheets.utils import center_of_group, determine_scale
 
 
 class Group:
@@ -24,14 +24,11 @@ class Group:
         self.doc.save(pretty=True)
 
     def create_translations(self):
-        # current = self.group.attribs.get('transform')
-        refreshed = ""
-        if self.position.location.x > 0 or self.position.location.y > 0:
-            refreshed += f"translate({self.position.location.x},{self.position.location.y}) "
+        refreshed = f"translate({self.position.origin.x},{self.position.origin.y}) "
         if self.rotation != 0:
-            origin_x, origin_y = center_of_group(self.size)
-            refreshed += f"rotate({self.rotation},{origin_x + self.position.location.x},{origin_y + self.position.location.y}) "
-        if self.scale.x > 0 or self.scale.y > 0:
+            shape_center_x, shape_center_y = center_of_group(self.size, self.scale)
+            refreshed += f"rotate({self.rotation},{shape_center_x},{shape_center_y}) "
+        if self.scale.x != 1 or self.scale.y != 1:
             refreshed += f"scale({self.scale.x},{self.scale.y}) "
         if len(refreshed) > 0:
             self.group.attribs['transform'] = refreshed
@@ -39,13 +36,8 @@ class Group:
     def move(self, move_right=0, move_down=0):
         self.position.location.x += move_right
         self.position.location.y += move_down
-
-        dx = move_right if self.positive_right else -move_right
-        dy = move_down if self.positive_down else -move_down
-
-        self.position.origin.x += dx
-        self.position.origin.y += dy
-        # self.group.translate(dx, dy)
+        self.position.origin.x += move_right
+        self.position.origin.y += move_down
         self.adjust_in_doc()
 
     def flip(self, along_x=False, along_y=False):
@@ -65,7 +57,6 @@ class Group:
                 self.position.location.y = self.position.origin.y
             else:  # moved from pos --> neg
                 self.position.location.y = self.position.origin.y - self.size.y
-        # self.group.scale(-1 if along_x else 1, -1 if along_y else 1)
         self.adjust_in_doc()
 
     def stretch(self, stretch_right=0, stretch_down=0):
@@ -74,32 +65,32 @@ class Group:
             print(f'unable to stretch into negative space')
             return
 
-        # size
-        self.size.x += stretch_right
-        self.size.y += stretch_down
-
         # scale
         scale_x = determine_scale(stretch_right, self.size.x)
         scale_y = determine_scale(stretch_down, self.size.y)
 
         self.scale.x *= scale_x
         self.scale.y *= scale_y
-        # self.group.scale(scale_x, scale_y)
+
+        # size
+        self.size.x += stretch_right
+        self.size.y += stretch_down
 
         # move
         dx = 0 if self.positive_right else stretch_right
         dy = 0 if self.positive_down else stretch_down
-        self.move(dx, dy)
 
-        self.adjust_in_doc()
+        # adjust position for scale
+        self.position.location.x -= dx
+        self.position.location.y -= dy
+
+        self.move(dx, dy)
 
     def stretch_to(self, desired_width=None, desired_height=None):
         dx = desired_width - self.size.x if desired_width else 0
         dy = desired_height - self.size.y if desired_height else 0
         self.stretch(dx, dy)
 
-    def rotate(self, deg=0, offset=None):
-        # current = self.group.attribs.get('transform')
-        # The positive direction of rotation is clockwise.
-        # self.group.rotate(45, (100, 100))
-        pass
+    def rotate(self, deg=0):
+        self.rotation = deg
+        self.adjust_in_doc()

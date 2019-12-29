@@ -37,6 +37,10 @@ def create_paths(paths, full_size, stroke='#000000', min_width=1, fill='#000000'
     return path_objs
 
 
+def relativize_movements(object):
+    pass
+
+
 def bounding_box(svg, x, y, width, height, stroke=1):
     return svg.rect(insert=(x, y),
                     size=(width, height),
