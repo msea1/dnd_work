@@ -2,7 +2,7 @@ from svgpathtools import svg2paths
 from svgpathtools.paths2svg import big_bounding_box
 from svgwrite import Drawing
 
-from svg_sheets.svgs.common import create_paths, bounding_box
+from svg_sheets.svgs.common import create_paths
 from svg_sheets.svgs.properties import Dimension
 from svg_sheets.svgs.svg_group import Group
 
@@ -32,7 +32,7 @@ class Builder:
         orig_paths, _ = svg2paths(filepath)
         x_min, x_max, y_min, y_max = big_bounding_box(orig_paths)
         shape.size = Dimension(width=x_max - x_min, height=y_max - y_min)
-        paths = create_paths(orig_paths, shape.size, fill='none')
+        paths = create_paths(orig_paths, shape.size, fill='none', min_width=0.5)
         for p in paths:
             shape.group.add(p)
         self.svg_doc.add(shape.group)
@@ -40,13 +40,14 @@ class Builder:
         return shape
 
 
-b = Builder()
-b.create_portrait_doc(doc_width=500, doc_height=500)
-# left_banner = b.add_shape('./shapes/containers/banner.svg', 'left_name_banner')
+if __name__ == '__main__':
+    b = Builder()
+    b.create_portrait_doc(doc_width=500, doc_height=500)
+    # left_banner = b.add_shape('./shapes/containers/banner.svg', 'left_name_banner')
 
-right_banner = b.add_shape('./shapes/containers/header.svg', 'right_name_banner')
-right_banner.stretch_to(100, 100)
-right_banner.move(200, 200)
-right_banner.flip(along_x=True)
-right_banner.stretch(stretch_right=150)
-right_banner.rotate(20)
+    right_banner = b.add_shape('./shapes/containers/header.svg', 'right_name_banner')
+    right_banner.stretch_to(100, 100)
+    right_banner.move(200, 200)
+    right_banner.flip(along_x=True)
+    right_banner.stretch(stretch_right=150)
+    right_banner.rotate(20)

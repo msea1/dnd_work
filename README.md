@@ -3,7 +3,6 @@
 ## Tasks
 - building a sheet
     - snap to other group
-        - formulas for transformations
     - multiple colors per shape
     - add text options, with font
 

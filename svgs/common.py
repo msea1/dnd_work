@@ -32,13 +32,9 @@ def create_paths(paths, full_size, stroke='#000000', min_width=1, fill='#000000'
             ps = spt_Path(p).d()
         else:  # assume this path, p, was input as a Path d-string
             ps = p
-        path_len = determine_stroke_width(p, full_size, min_width)
-        path_objs.append(Path(ps, stroke=stroke, stroke_width=f"{path_len}", fill=fill))
+        # pen_width = determine_stroke_width(p, full_size, min_width)
+        path_objs.append(Path(ps, stroke=stroke, stroke_width=f"{min_width}", fill=fill))
     return path_objs
-
-
-def relativize_movements(object):
-    pass
 
 
 def bounding_box(svg, x, y, width, height, stroke=1):

@@ -16,7 +16,7 @@ def determine_scale(scalar, existing_dimension):
 
 
 def determine_stroke_width(path, full_size, min_width):
-    return max(min_width, round(path.length() * 100 / (full_size.x * full_size.y), 1))
+    return max(min_width, round(path.length() * 50 / (full_size.x * full_size.y), 1))
 
 
 def invert_y_axis(page_height, inkscape_value):
