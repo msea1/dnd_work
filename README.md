@@ -4,7 +4,6 @@
 - building a sheet
     - snap to other group
     - multiple colors per shape
-    - add text options, with font
 
 - sprucing up
     - clean up
