@@ -1,6 +1,6 @@
 import unittest
 
-from svg_sheets import utils
+from svg_sheets.svg_work import utils
 
 
 class UtilsTests(unittest.TestCase):
