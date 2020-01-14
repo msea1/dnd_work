@@ -1,8 +1,13 @@
 # svg_sheets
 
-## Tasks
+## Goals
+- building shapes
+    - clean path
+    
 - building a sheet
-    - multiple colors per shape
+    - cleaning up inkscape SVGs
+    - scaling text
+    - snapping groups
 
 - sprucing up
     - testing
