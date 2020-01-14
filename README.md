@@ -23,6 +23,8 @@
 - load into Inkscape
 - select image, shift-alt-b to trace bitmap, up thresholds
 - drag result over, select original image, delete
+- In Document Properties (shift-ctrl-D), set viewbox to 0,0
+- (Extensions -- Arrange -- Deep Ungroup)
 - ctrl + L to simplify path (optionally)
 - select trace, shift-ctrl-r to resize, save
 

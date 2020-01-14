@@ -20,9 +20,11 @@ def create_paths(paths, _full_size, stroke='#000000', min_width=1, fill='#000000
 
 
 def center_of_group(size, scale):
+    x_flip = -1 if scale.x < 0 else 1
+    y_flip = -1 if scale.y < 0 else 1
     return (
-        round(size.x / 2, 2) * -1 if scale.x < 0 else 1,
-        round(size.y / 2, 2) * -1 if scale.y < 0 else 1
+        round(size.x / 2, 2) * x_flip,
+        round(size.y / 2, 2) * y_flip
     )
 
 

@@ -12,6 +12,7 @@ class Builder:
     def __init__(self):
         self.svg_doc = None
         self.shapes = {}
+        self.groups = {}
 
     def create_portrait_doc(self, doc_width=PAGE_WIDTH_PX, doc_height=PAGE_HEIGHT_PX, filename='testing.svg'):
         svg_doc = Drawing(filename=filename, size=(f'{doc_width}px', f'{doc_height}px'), profile='tiny')
@@ -31,10 +32,31 @@ class Builder:
         self.svg_doc.save(pretty=True)
         return shape
 
+    def flatten_group(self, group_name):
+        # old group name becomes new, flattened, shape name
+        flat_shape = Shape(group_name, self.svg_doc)
+        self.shapes[group_name] = flat_shape
+
+        groups_shapes = self.groups.get(group_name)
+        # determine bounding box, TODO
+
+        # merge paths, TODO
+
+        # clean out gunk
+        for s in groups_shapes:
+            self.shapes.pop(s.ref_id)
+            self.svg_doc.elements.remove(s.group)
+        self.groups.pop(group_name)
+
+        self.svg_doc.add(flat_shape.group)
+        self.svg_doc.save(pretty=True)
+
 
 if __name__ == '__main__':
     b = Builder()
     b.create_portrait_doc()
-    left_name, right_name = add_name_banners(b)
+    # left_name, right_name = add_name_banners(b)
+    # b.groups['herald'] = [left_name, right_name]
+
     initiative = add_dodec_banner(b, 'INITIATIVE', '+5')
     b.svg_doc.save(pretty=True)

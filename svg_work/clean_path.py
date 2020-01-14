@@ -1,4 +1,4 @@
-from svgpathtools import disvg, paths2svg, svg2paths
+from svgpathtools import disvg, svg2paths
 
 from svg_sheets.svg_work.utils import SVG_SHAPE_PARTS
 
@@ -46,9 +46,17 @@ def isolate_path(filepath_in, filename_out):
     paths = break_up_paths(paths)
     paths = [p for p in paths if len(p) > 0]
     paths = [clean_path(p) for p in paths]
-    svg_doc = disvg(paths, filename=filename_out, paths2Drawing=True, mindim=200)
-    bbox = paths2svg.big_bounding_box(paths)
-    svg_doc.viewbox(minx=bbox[0], width=bbox[1] - bbox[0], miny=bbox[2], height=bbox[3] - bbox[2])
+    svg_doc = disvg(
+        paths=paths,
+        stroke_widths=[0.3] * len(paths),
+        margin_size=0,
+        filename=filename_out,
+        paths2Drawing=True,
+        mindim=200
+    )
+    # bbox = paths2svg.big_bounding_box(paths)
+    # svg_doc.viewbox(minx=0, width=bbox[1] - bbox[0], miny=0, height=bbox[3] - bbox[2])
+    # svg_doc.viewbox(minx=bbox[0], width=bbox[1] - bbox[0], miny=bbox[2], height=bbox[3] - bbox[2])
     svg_doc.save(pretty=True)
 
 
