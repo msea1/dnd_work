@@ -44,4 +44,6 @@ potential way to create gifs - https://pypi.org/project/drawSvg/ or https://gith
 examples: https://drive.google.com/drive/u/0/folders/0BwFQiTKfux0qY1Y2d1hRdndtSEk
 docs http://tutorials.jenkov.com/svg/svg-transformation.html
 translations: https://www.sarasoueidan.com/blog/svg-transformations/
+https://iconsrepo.com/icons/castle/
+https://game-icons.net/1x1/heavenly-dog/defensive-wall.html
 
