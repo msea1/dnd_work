@@ -1,6 +1,11 @@
 # svg_sheets
 
 ## Goals
+- create graphics / macros (using Inkscape + py functions)
+- create front and back sheet for K (using Inkscape)
+- prune down py code that's useful
+- DOCUMENT it! + document Inkscape/svg useful tips
+
 - building shapes
     - clean path
     
