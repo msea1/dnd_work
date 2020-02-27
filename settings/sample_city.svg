@@ -1,0 +1,3536 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:cc="http://creativecommons.org/ns#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+     xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+     width="34.72"
+     height="29.35"
+     version="1.1"
+     id="svg2331"
+     sodipodi:docname="sample_city.svg"
+     inkscape:version="1.1-dev (1:0.92.0+devel+202002251828+2fde448)">
+    <metadata
+         id="metadata2337">
+        <rdf:RDF>
+            <cc:Work
+                 rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                     rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <dc:title />
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs
+         id="defs2335" />
+    <sodipodi:namedview
+         pagecolor="#ffffff"
+         bordercolor="#666666"
+         borderopacity="1"
+         objecttolerance="10"
+         gridtolerance="10"
+         guidetolerance="10"
+         inkscape:pageopacity="0"
+         inkscape:pageshadow="2"
+         inkscape:window-width="960"
+         inkscape:window-height="983"
+         id="namedview2333"
+         showgrid="false"
+         inkscape:zoom="5.268"
+         inkscape:cx="21.44"
+         inkscape:cy="14.68"
+         inkscape:window-x="0"
+         inkscape:window-y="27"
+         inkscape:window-maximized="0"
+         inkscape:current-layer="svg2331" />
+    <style
+         id="style45"><![CDATA[@import url("https://fonts.googleapis.com/css?family=IM+Fell+Great+Primer");]]></style>
+    <g
+         id="map"
+         transform="matrix(0.2476,0,0,0.241,16.7,15.9)"
+         style="stroke-width:4.0935">
+        <g
+             fill="#cccccc"
+             stroke="#000000"
+             stroke-width="1.12162"
+             id="g90">
+            <polygon
+                 points="-2.883,-0.46 -3.277,0.49 -4.226,0.883 -5.176,0.49 -5.57,-0.46 -5.176,-1.41 -4.226,-1.804 -3.277,-1.41 "
+                 id="polygon88"
+                 style="stroke-width:1.12162" />
+        </g>
+        <g
+             fill="#cccccc"
+             stroke="#000000"
+             stroke-width="1.12162"
+             id="g104">
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g100">
+                <polygon
+                     points="-17.2,12.96 -14.29,16.95 -14.29,17.75 -17.2,13.77 "
+                     id="polygon92"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-19,11.31 -21.97,7.238 -21.97,6.438 -19,10.51 -16.69,8.82 -14.89,11.28 -14.89,12.08 -16.69,9.62 "
+                     id="polygon94"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-18.3,-1.833 -15.64,1.817 -15.64,2.617 -18.3,-1.033 "
+                     id="polygon96"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-14.29,16.95 -11.98,15.27 -7.963,12.33 -5.571,15.61 -3.082,13.79 -0.019,11.56 -0.019,12.36 -3.082,14.59 -5.571,16.41 -7.963,13.13 -11.98,16.07 -14.29,17.75 "
+                     id="polygon98"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="-3.082,13.79 -5.571,15.61 -7.963,12.33 -11.98,15.27 -14.29,16.95 -17.2,12.96 -14.89,11.28 -16.69,8.82 -19,10.51 -21.97,6.438 -19.66,4.751 -15.64,1.817 -18.3,-1.833 -15.81,-3.649 -12.75,-5.884 -10.09,-2.234 -7.115,1.835 -5.321,4.294 -2.411,8.282 -0.019,11.56 "
+                 id="polygon102"
+                 style="stroke-width:1.12162" />
+        </g>
+        <g
+             fill="#cccccc"
+             stroke="#000000"
+             stroke-width="1.12162"
+             id="g154">
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g116">
+                <polygon
+                     points="-17.29,-16.66 -14.6,-12.15 -14.6,-11.75 -17.29,-16.26 "
+                     id="polygon106"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-14.6,-12.15 -9.596,-13.43 -9.596,-13.03 -14.6,-11.75 "
+                     id="polygon108"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-8.342,-8.12 -12.03,-7.449 -14.6,-11.75 -14.6,-12.15 -12.03,-7.849 -8.342,-8.52 "
+                     id="polygon110"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-5.24,-8.683 -8.342,-8.12 -10.84,-17.91 -10.84,-18.31 -8.342,-8.52 -5.24,-9.083 "
+                     id="polygon112"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-6.061,-19.53 -5.24,-9.083 -5.24,-8.683 -6.061,-19.13 "
+                     id="polygon114"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="-14.6,-12.15 -17.29,-16.66 -10.84,-18.31 -9.596,-13.43 "
+                 id="polygon118"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-9.596,-13.43 -8.342,-8.52 -12.03,-7.849 -14.6,-12.15 "
+                 id="polygon120"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-10.84,-18.31 -6.061,-19.53 -5.24,-9.083 -8.342,-8.52 "
+                 id="polygon122"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-6.061,-19.53 -5.24,-9.083 "
+                 id="polygon124"
+                 style="stroke-width:1.12162" />
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g140">
+                <polygon
+                     points="-4.449,-8.827 -4.677,-11.74 -4.677,-12.14 -4.449,-9.227 1.057,-10.23 1.211,-12.6 1.211,-12.2 1.057,-9.828 "
+                     id="polygon126"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-1.724,-11.97 -2.142,-17.29 -2.142,-17.69 -1.724,-12.37 1.211,-12.6 1.562,-17.98 1.562,-17.58 1.211,-12.2 "
+                     id="polygon128"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-1.724,-11.97 -4.677,-11.74 -4.939,-15.07 -4.939,-15.47 -4.677,-12.14 -1.724,-12.37 "
+                     id="polygon130"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-5.096,-17.46 -4.939,-15.47 -4.939,-15.07 -5.096,-17.06 "
+                     id="polygon132"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-4.939,-15.47 -1.986,-15.7 -1.986,-15.3 -4.939,-15.07 "
+                     id="polygon134"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-0.606,-17.41 -5.096,-17.06 -5.274,-19.33 -5.274,-19.73 -5.096,-17.46 -0.606,-17.81 "
+                     id="polygon136"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-0.606,-17.41 -0.846,-20.46 -0.846,-20.86 -0.606,-17.81 1.562,-17.98 1.793,-21.54 1.793,-21.14 1.562,-17.58 "
+                     id="polygon138"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="1.211,-12.6 1.057,-10.23 -4.449,-9.227 -4.677,-12.14 "
+                 id="polygon142"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-2.142,-17.69 1.562,-17.98 1.211,-12.6 -1.724,-12.37 "
+                 id="polygon144"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-1.986,-15.7 -1.724,-12.37 -4.677,-12.14 -4.939,-15.47 "
+                 id="polygon146"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-4.939,-15.47 -5.096,-17.46 -2.142,-17.69 -1.986,-15.7 "
+                 id="polygon148"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-0.606,-17.81 -5.096,-17.46 -5.274,-19.73 -0.846,-20.86 "
+                 id="polygon150"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-0.846,-20.86 1.793,-21.54 1.562,-17.98 -0.606,-17.81 "
+                 id="polygon152"
+                 style="stroke-width:1.12162" />
+        </g>
+        <g
+             fill="#cccccc"
+             stroke="#000000"
+             stroke-width="1.12162"
+             id="g184">
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g160">
+                <polygon
+                     points="9.152,11.94 8.589,11.45 8.473,4.981 8.473,4.581 8.589,11.05 9.152,11.54 "
+                     id="polygon156"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="9.152,11.54 16.69,6.446 16.69,6.846 9.152,11.94 "
+                     id="polygon158"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="9.152,11.54 8.589,11.05 8.473,4.581 16.69,6.446 "
+                 id="polygon162"
+                 style="stroke-width:1.12162" />
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g174">
+                <polygon
+                     points="9.774,12.08 13.7,15.52 13.7,15.92 9.774,12.48 "
+                     id="polygon164"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="13.7,15.52 17.17,12.77 17.17,13.17 13.7,15.92 "
+                     id="polygon166"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="16.57,18.43 13.7,15.92 13.7,15.52 16.57,18.03 16.85,15.54 17.17,12.77 17.17,13.17 16.85,15.94 "
+                     id="polygon168"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="16.57,18.03 16.85,15.54 16.85,15.94 16.57,18.43 "
+                     id="polygon170"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="17.86,7.112 17.17,13.17 13.51,9.963 13.51,9.563 17.17,12.77 17.86,6.712 "
+                     id="polygon172"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="13.7,15.52 9.774,12.08 13.51,9.563 17.17,12.77 "
+                 id="polygon176"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="17.17,12.77 16.85,15.54 16.57,18.03 13.7,15.52 "
+                 id="polygon178"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="16.85,15.54 16.57,18.03 "
+                 id="polygon180"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="13.51,9.563 17.76,6.689 17.86,6.712 17.17,12.77 "
+                 id="polygon182"
+                 style="stroke-width:1.12162" />
+        </g>
+        <g
+             fill="#cccccc"
+             stroke="#000000"
+             stroke-width="1.12162"
+             id="g272">
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g196">
+                <polygon
+                     points="18.93,0.41 18.32,5.165 12.06,3.745 12.06,3.345 18.32,4.765 18.93,0.01 "
+                     id="polygon186"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="19.55,-4.374 18.93,0.41 12.6,-0.407 12.6,-0.807 18.93,0.01 19.55,-4.774 "
+                     id="polygon188"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="12.06,3.745 8.438,2.923 8.4,-4.083 8.4,-4.483 8.438,2.523 12.06,3.345 "
+                     id="polygon190"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="12.06,3.345 13.09,-4.606 13.09,-4.206 12.06,3.745 "
+                     id="polygon192"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="18.32,4.765 20.14,4.171 20.14,4.571 18.32,5.165 "
+                     id="polygon194"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="18.93,0.01 18.32,4.765 12.06,3.345 12.6,-0.807 "
+                 id="polygon198"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="12.6,-0.807 13.09,-4.606 19.55,-4.774 18.93,0.01 "
+                 id="polygon200"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="12.06,3.345 8.438,2.523 8.4,-4.483 13.09,-4.606 "
+                 id="polygon202"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="20.14,4.171 18.32,4.765 19.55,-4.774 "
+                 id="polygon204"
+                 style="stroke-width:1.12162" />
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g208">
+                <polygon
+                     points="28.33,1.884 20.92,4.313 20.35,-4.395 20.35,-4.795 20.92,3.913 28.33,1.484 "
+                     id="polygon206"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="20.35,-4.795 26.52,-4.957 28.33,1.484 20.92,3.913 "
+                 id="polygon210"
+                 style="stroke-width:1.12162" />
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g220">
+                <polygon
+                     points="18.7,-5.552 22.55,-5.653 22.55,-5.253 18.7,-5.152 "
+                     id="polygon212"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="22.55,-5.653 23.1,-11.93 23.1,-11.53 22.55,-5.253 "
+                     id="polygon214"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="22.55,-5.653 26.3,-5.751 26.3,-5.351 22.55,-5.253 "
+                     id="polygon216"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="19.3,-12.27 24.59,-11.8 24.59,-11.4 19.3,-11.87 "
+                     id="polygon218"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="22.55,-5.653 18.7,-5.552 19.3,-12.27 23.1,-11.93 "
+                 id="polygon222"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="23.1,-11.93 24.59,-11.8 26.3,-5.751 22.55,-5.653 "
+                 id="polygon224"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="19.3,-12.27 19.75,-17.45 23.36,-16.18 24.59,-11.8 "
+                 id="polygon226"
+                 style="stroke-width:1.12162" />
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g248">
+                <polygon
+                     points="10.89,-4.948 8.396,-4.883 8.382,-7.414 8.382,-7.814 8.396,-5.283 10.89,-5.348 "
+                     id="polygon228"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="8.371,-9.766 8.382,-7.814 8.382,-7.414 8.371,-9.366 "
+                     id="polygon230"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="8.382,-7.814 10.88,-7.827 10.88,-7.427 8.382,-7.414 "
+                     id="polygon232"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="10.89,-4.948 10.87,-8.993 10.87,-9.393 10.89,-5.348 13.14,-5.407 13.38,-9.018 13.38,-8.618 13.14,-5.007 "
+                     id="polygon234"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="8.371,-9.766 9.663,-9.573 9.663,-9.173 8.371,-9.366 "
+                     id="polygon236"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="9.663,-9.573 10.22,-13.59 10.22,-13.19 9.663,-9.173 "
+                     id="polygon238"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="13.64,-12.71 13.38,-8.618 9.663,-9.173 9.663,-9.573 13.38,-9.018 13.64,-13.11 "
+                     id="polygon240"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="15.29,-6.58 15.2,-5.061 13.14,-5.007 13.14,-5.407 15.2,-5.461 15.29,-6.98 "
+                     id="polygon242"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="18.22,-8.82 17.89,-5.131 15.2,-5.061 15.2,-5.461 17.89,-5.531 18.22,-9.22 "
+                     id="polygon244"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="18.51,-12.04 18.22,-8.82 13.41,-9.133 13.41,-9.533 18.22,-9.22 18.51,-12.44 "
+                     id="polygon246"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="10.88,-7.827 10.89,-5.348 8.396,-5.283 8.382,-7.814 "
+                 id="polygon250"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="8.382,-7.814 8.371,-9.766 10.87,-9.393 10.88,-7.827 "
+                 id="polygon252"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="10.87,-9.393 13.38,-9.018 13.14,-5.407 10.89,-5.348 "
+                 id="polygon254"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="9.663,-9.573 8.371,-9.766 8.634,-13.81 10.22,-13.59 "
+                 id="polygon256"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="10.22,-13.59 13.64,-13.11 13.38,-9.018 9.663,-9.573 "
+                 id="polygon258"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="15.29,-6.98 15.2,-5.461 13.14,-5.407 13.26,-7.113 "
+                 id="polygon260"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="15.45,-9.401 18.22,-9.22 17.89,-5.531 15.2,-5.461 "
+                 id="polygon262"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="13.41,-9.533 13.64,-13.11 18.51,-12.44 18.22,-9.22 "
+                 id="polygon264"
+                 style="stroke-width:1.12162" />
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g268">
+                <polygon
+                     points="18.98,-17.33 18.58,-12.84 8.686,-14.21 8.686,-14.61 18.58,-13.24 18.98,-17.73 "
+                     id="polygon266"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="8.686,-14.61 9.117,-21.22 18.98,-17.73 18.58,-13.24 "
+                 id="polygon270"
+                 style="stroke-width:1.12162" />
+        </g>
+        <g
+             fill="#cccccc"
+             stroke="#000000"
+             stroke-width="1.12162"
+             id="g338">
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g310">
+                <polygon
+                     points="9.266,21.38 12.82,24.5 12.82,24.9 9.266,21.78 "
+                     id="polygon274"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="12.82,24.9 7.671,28.02 5.335,24.16 5.335,23.76 7.671,27.62 12.82,24.5 "
+                     id="polygon276"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="7.671,28.02 4.577,29.89 2.241,26.04 2.241,25.64 4.577,29.49 7.671,27.62 "
+                     id="polygon278"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="4.577,29.89 3.228,30.71 0.893,26.85 0.893,26.45 3.228,30.31 4.577,29.49 "
+                     id="polygon280"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="9.266,21.78 4.122,24.9 1.754,20.99 1.754,20.59 4.122,24.5 9.266,21.38 "
+                     id="polygon282"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-0.534,16.81 1.754,20.59 1.754,20.99 -0.534,17.21 "
+                     id="polygon284"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="1.754,20.59 5.659,18.22 5.659,18.62 1.754,20.99 "
+                     id="polygon286"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-3.867,18.59 -2.678,20.56 -2.678,20.96 -3.867,18.99 "
+                     id="polygon288"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-2.678,20.56 0.552,18.6 0.552,19 -2.678,20.96 "
+                     id="polygon290"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-7.124,26.18 -4.031,29.7 -4.031,30.1 -7.124,26.58 "
+                     id="polygon292"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-4.031,29.7 1.008,26.64 1.008,27.04 -4.031,30.1 "
+                     id="polygon294"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="3.228,30.71 0.793,32.18 -1.427,28.52 -1.427,28.12 0.793,31.78 3.228,30.31 "
+                     id="polygon296"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="0.793,32.18 -1.153,33.36 -2.293,32.07 -2.293,31.67 -1.153,32.96 0.793,31.78 "
+                     id="polygon298"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-4.031,29.7 -2.293,31.67 -2.293,32.07 -4.031,30.1 "
+                     id="polygon300"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-2.293,31.67 -0.086,30.33 -0.086,30.73 -2.293,32.07 "
+                     id="polygon302"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-7.673,20.63 -6.471,22.62 -6.471,23.02 -7.673,21.03 "
+                     id="polygon304"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-6.471,22.62 -2.783,20.38 -2.783,20.78 -6.471,23.02 "
+                     id="polygon306"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-5.066,25.34 -7.124,26.58 -10.62,22.61 -10.62,22.21 -7.124,26.18 -5.066,24.94 "
+                     id="polygon308"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="9.266,21.38 12.82,24.5 "
+                 id="polygon312"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="5.335,23.76 9.266,21.38 12.82,24.5 7.671,27.62 "
+                 id="polygon314"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="2.241,25.64 5.335,23.76 7.671,27.62 4.577,29.49 "
+                 id="polygon316"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="4.577,29.49 3.228,30.31 0.893,26.45 2.241,25.64 "
+                 id="polygon318"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="5.659,18.22 9.266,21.38 4.122,24.5 1.754,20.59 "
+                 id="polygon320"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="1.754,20.59 -0.534,16.81 2.307,15.29 5.659,18.22 "
+                 id="polygon322"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-2.678,20.56 -3.867,18.59 -0.534,16.81 0.552,18.6 "
+                 id="polygon324"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-4.031,29.7 -7.124,26.18 -1.378,22.7 1.008,26.64 "
+                 id="polygon326"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-1.427,28.12 1.008,26.64 3.228,30.31 0.793,31.78 "
+                 id="polygon328"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-0.086,30.33 0.793,31.78 -1.153,32.96 -2.293,31.67 "
+                 id="polygon330"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-2.293,31.67 -4.031,29.7 -1.427,28.12 -0.086,30.33 "
+                 id="polygon332"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-6.471,22.62 -7.673,20.63 -3.867,18.59 -2.783,20.38 "
+                 id="polygon334"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-5.066,24.94 -7.124,26.18 -10.62,22.21 -7.673,20.63 "
+                 id="polygon336"
+                 style="stroke-width:1.12162" />
+        </g>
+        <g
+             fill="#cccccc"
+             stroke="#000000"
+             stroke-width="1.12162"
+             id="g488">
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g364">
+                <polygon
+                     points="-22.95,23.95 -27.26,26.06 -30.44,19.55 -30.44,19.15 -27.26,25.66 -22.95,23.55 "
+                     id="polygon340"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-29.6,27.21 -32.73,28.73 -34.43,24.15 -34.43,23.75 -32.73,28.34 -29.6,26.81 "
+                     id="polygon342"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-35.25,21.53 -34.43,23.75 -34.43,24.15 -35.25,21.93 "
+                     id="polygon344"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-34.43,23.75 -29.4,21.29 -29.4,21.69 -34.43,24.15 "
+                     id="polygon346"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-28.12,26.08 -26.42,29.55 -26.42,29.95 -28.12,26.48 "
+                     id="polygon348"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-26.42,29.55 -21.26,27.02 -21.26,27.42 -26.42,29.95 "
+                     id="polygon350"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-19.8,30.39 -24.61,33.65 -26.42,29.95 -26.42,29.55 -24.61,33.25 -19.8,29.99 "
+                     id="polygon352"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-32.73,28.34 -31.24,32.36 -31.24,32.76 -32.73,28.73 "
+                     id="polygon354"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-31.24,32.36 -26.24,29.91 -26.24,30.31 -31.24,32.76 "
+                     id="polygon356"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-26.57,34.98 -29.64,37.07 -31.24,32.76 -31.24,32.36 -29.64,36.67 -26.57,34.58 "
+                     id="polygon358"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-23.22,34.55 -25.8,37.71 -29.64,37.07 -29.64,36.67 -25.8,37.31 -23.22,34.15 "
+                     id="polygon360"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-19.8,30.39 -23.22,34.55 -24.07,33.29 -24.07,32.89 -23.22,34.15 -19.8,29.99 "
+                     id="polygon362"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="-30.44,19.15 -26.14,17.03 -22.95,23.55 -27.26,25.66 "
+                 id="polygon366"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-29.6,26.81 -32.73,28.34 -34.43,23.75 -31.74,22.44 "
+                 id="polygon368"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-34.43,23.75 -35.25,21.53 -30.44,19.15 -29.4,21.29 "
+                 id="polygon370"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-26.42,29.55 -28.12,26.08 -22.95,23.55 -21.26,27.02 "
+                 id="polygon372"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-21.26,27.02 -19.8,29.99 -24.61,33.25 -26.42,29.55 "
+                 id="polygon374"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-31.24,32.36 -32.73,28.34 -28.12,26.08 -26.24,29.91 "
+                 id="polygon376"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-26.57,34.58 -29.64,36.67 -31.24,32.36 -28.35,30.94 "
+                 id="polygon378"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-23.22,34.15 -25.8,37.31 -29.64,36.67 -24.07,32.89 "
+                 id="polygon380"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-19.8,29.99 -23.22,34.15 -24.07,32.89 "
+                 id="polygon382"
+                 style="stroke-width:1.12162" />
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g386">
+                <polygon
+                     points="-12.53,21.52 -19.25,29.71 -23.47,21.06 -23.47,20.66 -19.25,29.31 -12.53,21.12 "
+                     id="polygon384"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="-14.96,17.79 -12.53,21.12 -19.25,29.31 -23.47,20.66 "
+                 id="polygon388"
+                 style="stroke-width:1.12162" />
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g400">
+                <polygon
+                     points="-24.26,15.6 -25.97,16.45 -28.4,11.33 -28.4,10.93 -25.97,16.05 -24.26,15.2 "
+                     id="polygon390"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-26.63,10.22 -25.77,12.02 -25.77,12.42 -26.63,10.62 "
+                     id="polygon392"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-25.77,12.02 -23.24,10.82 -23.24,11.22 -25.77,12.42 "
+                     id="polygon394"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-21.75,14.36 -24.26,15.6 -25.77,12.42 -25.77,12.02 -24.26,15.2 -21.75,13.96 "
+                     id="polygon396"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-18.82,12.91 -21.75,14.36 -24.02,9.584 -24.02,9.184 -21.75,13.96 -18.82,12.51 "
+                     id="polygon398"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="-24.26,15.2 -25.97,16.05 -28.4,10.93 -26.63,10.22 "
+                 id="polygon402"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-25.77,12.02 -26.63,10.22 -24.02,9.184 -23.24,10.82 "
+                 id="polygon404"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-23.24,10.82 -21.75,13.96 -24.26,15.2 -25.77,12.02 "
+                 id="polygon406"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-24.02,9.184 -21.87,8.328 -18.82,12.51 -21.75,13.96 "
+                 id="polygon408"
+                 style="stroke-width:1.12162" />
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g414">
+                <polygon
+                     points="-22.36,8.061 -25.38,9.262 -26.41,6.676 -26.41,6.276 -25.38,8.862 -22.36,7.661 "
+                     id="polygon410"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-25.38,9.262 -28.75,10.61 -30.05,7.859 -30.05,7.459 -28.75,10.21 -25.38,8.862 "
+                     id="polygon412"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="-26.41,6.276 -23.95,5.479 -22.36,7.661 -25.38,8.862 "
+                 id="polygon416"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-25.38,8.862 -28.75,10.21 -30.05,7.459 -26.41,6.276 "
+                 id="polygon418"
+                 style="stroke-width:1.12162" />
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g442">
+                <polygon
+                     points="-37.56,15.29 -36.57,17.96 -36.57,18.36 -37.56,15.69 "
+                     id="polygon420"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-36.57,17.96 -31.36,16.02 -31.36,16.43 -36.57,18.36 "
+                     id="polygon422"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-30.51,18.7 -35.53,21.18 -36.57,18.36 -36.57,17.96 -35.53,20.78 -30.51,18.3 "
+                     id="polygon424"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-26.68,16.8 -30.51,18.7 -32.34,13.76 -32.34,13.36 -30.51,18.3 -26.68,16.4 "
+                     id="polygon426"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-31.86,13.58 -33.1,14.04 -34.82,9.403 -34.82,9.003 -33.1,13.64 -31.86,13.18 "
+                     id="polygon428"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-34.82,14.68 -37.56,15.69 -38.24,13.86 -38.24,13.46 -37.56,15.29 -34.82,14.28 "
+                     id="polygon430"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-35.04,12.67 -38.24,13.86 -39.35,10.87 -39.35,10.47 -38.24,13.46 -35.04,12.27 "
+                     id="polygon432"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-33.78,12.2 -35.04,12.67 -36.09,9.817 -36.09,9.417 -35.04,12.27 -33.78,11.8 "
+                     id="polygon434"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-28.76,12.43 -31.86,13.58 -32.57,11.69 -32.57,11.29 -31.86,13.18 -28.76,12.03 "
+                     id="polygon436"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-33.56,8.597 -32.57,11.29 -32.57,11.69 -33.56,8.997 "
+                     id="polygon438"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-32.57,11.29 -29.64,10.2 -29.64,10.6 -32.57,11.69 "
+                     id="polygon440"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="-36.57,17.96 -37.56,15.29 -32.34,13.36 -31.36,16.02 "
+                 id="polygon444"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-31.36,16.02 -30.51,18.3 -35.53,20.78 -36.57,17.96 "
+                 id="polygon446"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-32.34,13.36 -28.76,12.03 -26.68,16.4 -30.51,18.3 "
+                 id="polygon448"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-34.82,9.003 -33.56,8.597 -31.86,13.18 -33.1,13.64 "
+                 id="polygon450"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-34.82,14.28 -37.56,15.29 -38.24,13.46 -35.5,12.44 "
+                 id="polygon452"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-35.04,12.27 -38.24,13.46 -39.35,10.47 -36.09,9.417 "
+                 id="polygon454"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-36.09,9.417 -34.82,9.003 -33.78,11.8 -35.04,12.27 "
+                 id="polygon456"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-29.64,10.2 -28.76,12.03 -31.86,13.18 -32.57,11.29 "
+                 id="polygon458"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-32.57,11.29 -33.56,8.597 -30.82,7.708 -29.64,10.2 "
+                 id="polygon460"
+                 style="stroke-width:1.12162" />
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g464">
+                <polygon
+                     points="-24.45,5.199 -32.9,7.941 -33.93,0.777 -33.93,0.377 -32.9,7.541 -24.45,4.799 "
+                     id="polygon462"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="-33.93,0.377 -26.41,2.102 -24.45,4.799 -32.9,7.541 "
+                 id="polygon466"
+                 style="stroke-width:1.12162" />
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g478">
+                <polygon
+                     points="-33.67,8.192 -39.62,10.12 -41.1,6.148 -41.1,5.748 -39.62,9.722 -33.67,7.792 "
+                     id="polygon468"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-34.28,3.938 -37.94,5.123 -38.73,3.139 -38.73,2.739 -37.94,4.723 -34.28,3.538 "
+                     id="polygon470"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-40.25,-1.075 -38.73,2.739 -38.73,3.139 -40.25,-0.675 "
+                     id="polygon472"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-38.73,2.739 -34.63,1.103 -34.63,1.503 -38.73,3.139 "
+                     id="polygon474"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-37.94,5.123 -41.1,6.148 -42.62,2.024 -42.62,1.624 -41.1,5.748 -37.94,4.723 "
+                     id="polygon476"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="-34.28,3.538 -33.67,7.792 -39.62,9.722 -41.1,5.748 "
+                 id="polygon480"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-34.63,1.103 -34.28,3.538 -37.94,4.723 -38.73,2.739 "
+                 id="polygon482"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-38.73,2.739 -40.25,-1.075 -34.76,0.185 -34.63,1.103 "
+                 id="polygon484"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-37.94,4.723 -41.1,5.748 -42.62,1.624 -40.25,-1.075 "
+                 id="polygon486"
+                 style="stroke-width:1.12162" />
+        </g>
+        <g
+             fill="#cccccc"
+             stroke="#000000"
+             stroke-width="1.12162"
+             id="g640">
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g500">
+                <polygon
+                     points="-21.33,-10.39 -19.85,-7.413 -19.85,-7.013 -21.33,-9.988 "
+                     id="polygon490"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-19.85,-7.413 -15.61,-9.945 -15.61,-9.545 -19.85,-7.013 "
+                     id="polygon492"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-13.93,-6.721 -18.47,-4.239 -19.85,-7.013 -19.85,-7.413 -18.47,-4.639 -13.93,-7.121 "
+                     id="polygon494"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-22.73,-2.313 -18.47,-4.639 -18.47,-4.239 -22.73,-1.913 "
+                     id="polygon496"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-21.86,-7.319 -19.61,-6.93 -19.61,-6.53 -21.86,-6.919 "
+                     id="polygon498"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="-19.85,-7.413 -21.33,-10.39 -18.43,-14.66 -15.61,-9.945 "
+                 id="polygon502"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-15.61,-9.945 -13.93,-7.121 -18.47,-4.639 -19.85,-7.413 "
+                 id="polygon504"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-19.61,-6.93 -18.47,-4.639 -22.73,-2.313 -21.86,-7.319 "
+                 id="polygon506"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-21.33,-10.39 -19.61,-6.93 -21.86,-7.319 "
+                 id="polygon508"
+                 style="stroke-width:1.12162" />
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g524">
+                <polygon
+                     points="-29.83,-8.436 -29.26,-6.285 -29.26,-5.885 -29.83,-8.036 "
+                     id="polygon510"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-29.26,-6.285 -25.63,-6.77 -25.63,-6.37 -29.26,-5.885 "
+                     id="polygon512"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-25.18,-3.017 -28.38,-2.589 -29.26,-5.885 -29.26,-6.285 -28.38,-2.989 -25.18,-3.417 "
+                     id="polygon514"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-25.92,-8.958 -25.51,-5.865 -25.51,-5.465 -25.92,-8.558 "
+                     id="polygon516"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-22.31,-9.042 -22.86,-5.819 -25.51,-5.465 -25.51,-5.865 -22.86,-6.219 -22.31,-9.442 "
+                     id="polygon518"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-25.18,-3.017 -25.51,-5.465 -25.51,-5.865 -25.18,-3.417 -23.3,-3.668 -22.86,-6.219 -22.86,-5.819 -23.3,-3.268 "
+                     id="polygon520"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-23.62,-1.824 -23.3,-3.668 -23.3,-3.268 -23.62,-1.424 -26.86,0.347 -27.66,0.165 -28.38,-2.589 -28.38,-2.989 -27.66,-0.235 -26.86,-0.053 "
+                     id="polygon522"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="-29.26,-6.285 -29.83,-8.436 -25.92,-8.958 -25.63,-6.77 "
+                 id="polygon526"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-25.63,-6.77 -25.18,-3.417 -28.38,-2.989 -29.26,-6.285 "
+                 id="polygon528"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-25.51,-5.865 -25.92,-8.958 -22.31,-9.442 -22.86,-6.219 "
+                 id="polygon530"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-22.86,-6.219 -23.3,-3.668 -25.18,-3.417 -25.51,-5.865 "
+                 id="polygon532"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-23.62,-1.824 -26.86,-0.053 -27.66,-0.235 -28.38,-2.989 -23.3,-3.668 "
+                 id="polygon534"
+                 style="stroke-width:1.12162" />
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g548">
+                <polygon
+                     points="-30.81,-12.14 -30.37,-10.47 -30.37,-10.07 -30.81,-11.74 "
+                     id="polygon536"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-30.37,-10.47 -27.38,-11.74 -27.38,-11.34 -30.37,-10.07 "
+                     id="polygon538"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-26.51,-9.287 -30.03,-8.816 -30.37,-10.07 -30.37,-10.47 -30.03,-9.216 -26.51,-9.687 "
+                     id="polygon540"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-22.4,-9.837 -26.51,-9.287 -28.04,-12.91 -28.04,-13.31 -26.51,-9.687 -22.4,-10.24 "
+                     id="polygon542"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-20.59,-12.5 -22.4,-9.837 -23.76,-14.73 -23.76,-15.13 -22.4,-10.24 -20.59,-12.9 "
+                     id="polygon544"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-18.88,-15.02 -20.59,-12.5 -21.87,-15.53 -21.87,-15.93 -20.59,-12.9 -18.88,-15.42 "
+                     id="polygon546"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="-30.37,-10.47 -30.81,-12.14 -28.04,-13.31 -27.38,-11.74 "
+                 id="polygon550"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-27.38,-11.74 -26.51,-9.687 -30.03,-9.216 -30.37,-10.47 "
+                 id="polygon552"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-22.4,-10.24 -26.51,-9.687 -28.04,-13.31 -23.76,-15.13 "
+                 id="polygon554"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-20.59,-12.9 -22.4,-10.24 -23.76,-15.13 -21.87,-15.93 "
+                 id="polygon556"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-19.82,-16.8 -19.34,-16.19 -18.88,-15.42 -20.59,-12.9 -21.87,-15.93 "
+                 id="polygon558"
+                 style="stroke-width:1.12162" />
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g580">
+                <polygon
+                     points="-23.48,-15.71 -26.03,-14.63 -27.91,-19.08 -27.91,-19.48 -26.03,-15.03 -23.48,-16.11 "
+                     id="polygon560"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-20.33,-17.05 -23.48,-15.71 -25.36,-20.16 -25.36,-20.56 -23.48,-16.11 -20.33,-17.45 "
+                     id="polygon562"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-23.42,-20.98 -27.91,-19.08 -28.8,-21.18 -28.8,-21.58 -27.91,-19.48 -23.42,-21.38 "
+                     id="polygon564"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-29.83,-24.02 -28.8,-21.58 -28.8,-21.18 -29.83,-23.62 "
+                     id="polygon566"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-28.8,-21.58 -24.87,-23.23 -24.87,-22.84 -28.8,-21.18 "
+                     id="polygon568"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-33.56,-22.55 -32.91,-20.08 -32.91,-19.68 -33.56,-22.15 "
+                     id="polygon570"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-32.91,-20.08 -28.89,-21.78 -28.89,-21.38 -32.91,-19.68 "
+                     id="polygon572"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-30.64,-17.99 -32.28,-17.3 -32.91,-19.68 -32.91,-20.08 -32.28,-17.7 -30.64,-18.39 "
+                     id="polygon574"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-27.86,-13.86 -31.02,-12.52 -32.28,-17.3 -32.28,-17.7 -31.02,-12.92 -27.86,-14.26 "
+                     id="polygon576"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-26.03,-14.63 -27.86,-13.86 -28.69,-15.8 -28.69,-16.2 -27.86,-14.26 -26.03,-15.03 "
+                     id="polygon578"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="-23.48,-16.11 -26.03,-15.03 -27.91,-19.48 -25.36,-20.56 "
+                 id="polygon582"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-25.36,-20.56 -23.42,-21.38 -20.33,-17.45 -23.48,-16.11 "
+                 id="polygon584"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-24.87,-23.23 -23.42,-21.38 -27.91,-19.48 -28.8,-21.58 "
+                 id="polygon586"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-29.83,-24.02 -24.87,-23.23 -28.8,-21.58 "
+                 id="polygon588"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-33.56,-22.55 -31.08,-24.22 -29.83,-24.02 -28.89,-21.78 -32.91,-20.08 "
+                 id="polygon590"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-30.64,-18.39 -32.28,-17.7 -32.91,-20.08 -31.6,-20.64 "
+                 id="polygon592"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-27.86,-14.26 -31.02,-12.92 -32.28,-17.7 -29.77,-18.76 "
+                 id="polygon594"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-26.85,-16.98 -26.03,-15.03 -27.86,-14.26 -28.69,-16.2 "
+                 id="polygon596"
+                 style="stroke-width:1.12162" />
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g620">
+                <polygon
+                     points="-40.72,-13.65 -32.6,-15.8 -32.6,-15.4 -40.72,-13.25 "
+                     id="polygon598"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-41.6,-9.66 -38.07,-10.6 -38.07,-10.2 -41.6,-9.26 "
+                     id="polygon600"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-42.03,-7.711 -37.44,-8.198 -37.44,-7.798 -42.03,-7.311 "
+                     id="polygon602"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-36.58,-4.58 -39.76,-3.738 -42.03,-7.311 -42.03,-7.711 -39.76,-4.138 -36.58,-4.98 "
+                     id="polygon604"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-39,-14.11 -38.01,-10.37 -38.01,-9.973 -39,-13.71 "
+                     id="polygon606"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-38.01,-10.37 -31.62,-12.07 -31.62,-11.67 -38.01,-9.973 "
+                     id="polygon608"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-35.16,-11.13 -34.62,-9.1 -34.62,-8.7 -35.16,-10.73 "
+                     id="polygon610"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-34.62,-9.1 -31.08,-10.04 -31.08,-9.638 -34.62,-8.7 "
+                     id="polygon612"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-30.19,-6.274 -33.73,-5.336 -34.62,-8.7 -34.62,-9.1 -33.73,-5.736 -30.19,-6.674 "
+                     id="polygon614"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-33.8,-1.245 -38.93,-2.424 -39.76,-3.738 -39.76,-4.138 -38.93,-2.824 -33.8,-1.645 "
+                     id="polygon616"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-28.54,-0.037 -33.8,-1.245 -34.8,-5.051 -34.8,-5.451 -33.8,-1.645 -28.54,-0.437 "
+                     id="polygon618"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="-40.02,-16.83 -38.3,-19.37 -34.27,-22.08 -32.6,-15.8 -40.72,-13.65 "
+                 id="polygon622"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-41.6,-9.66 -40.72,-13.65 -39,-14.11 -38.07,-10.6 "
+                 id="polygon624"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-42.03,-7.711 -41.6,-9.66 -38.07,-10.6 -37.44,-8.198 "
+                 id="polygon626"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-37.44,-8.198 -36.58,-4.98 -39.76,-4.138 -42.03,-7.711 "
+                 id="polygon628"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-38.01,-10.37 -39,-14.11 -32.6,-15.8 -31.62,-12.07 "
+                 id="polygon630"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-34.62,-9.1 -35.16,-11.13 -31.62,-12.07 -31.08,-10.04 "
+                 id="polygon632"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-31.08,-10.04 -30.19,-6.674 -33.73,-5.736 -34.62,-9.1 "
+                 id="polygon634"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-33.8,-1.645 -38.93,-2.824 -39.76,-4.138 -34.8,-5.451 "
+                 id="polygon636"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-34.8,-5.451 -30.19,-6.674 -28.54,-0.437 -33.8,-1.645 "
+                 id="polygon638"
+                 style="stroke-width:1.12162" />
+        </g>
+        <g
+             fill="#cccccc"
+             stroke="#000000"
+             stroke-width="1.12162"
+             id="g814">
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g664">
+                <polygon
+                     points="-9.402,-19.5 -6.511,-20.24 -6.511,-19.84 -9.402,-19.1 "
+                     id="polygon642"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-6.511,-20.24 -6.475,-28.34 -6.475,-27.94 -6.511,-19.84 "
+                     id="polygon644"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-1.277,-23.4 -1.287,-21.17 -6.511,-19.84 -6.511,-20.24 -1.287,-21.57 -1.277,-23.8 "
+                     id="polygon646"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="2.05,-25.37 1.853,-21.98 -1.287,-21.17 -1.287,-21.57 1.853,-22.38 2.05,-25.77 "
+                     id="polygon648"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="2.198,-27.9 2.05,-25.37 1.13,-25.38 1.13,-25.78 2.05,-25.77 2.198,-28.3 "
+                     id="polygon650"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="2.294,-29.56 2.198,-27.9 -2.747,-27.93 -2.747,-28.32 2.198,-28.3 2.294,-29.96 "
+                     id="polygon652"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-2.735,-30.44 -2.747,-27.93 -4.577,-27.93 -4.577,-28.33 -2.747,-28.32 -2.735,-30.84 "
+                     id="polygon654"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-6.046,-28.34 -4.577,-28.33 -4.577,-27.93 -6.046,-27.94 "
+                     id="polygon656"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-4.577,-28.33 -4.564,-31.16 -4.564,-30.77 -4.577,-27.93 "
+                     id="polygon658"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-9.362,-28.36 -6.046,-28.34 -6.046,-27.94 -9.362,-27.95 "
+                     id="polygon660"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-6.046,-28.34 -6.032,-31.42 -6.032,-31.02 -6.046,-27.94 "
+                     id="polygon662"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="-6.511,-20.24 -9.402,-19.5 -9.362,-28.36 -6.475,-28.34 "
+                 id="polygon666"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-1.277,-23.8 -1.287,-21.57 -6.511,-20.24 -6.495,-23.83 "
+                 id="polygon668"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="2.05,-25.77 1.853,-22.38 -1.287,-21.57 -1.268,-25.79 "
+                 id="polygon670"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="1.141,-28.31 2.198,-28.3 2.05,-25.77 1.13,-25.78 "
+                 id="polygon672"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-2.735,-30.84 2.294,-29.96 2.198,-28.3 -2.747,-28.32 "
+                 id="polygon674"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-4.564,-31.16 -2.735,-30.84 -2.747,-28.32 -4.577,-28.33 "
+                 id="polygon676"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-4.577,-28.33 -6.046,-28.34 -6.032,-31.42 -4.564,-31.16 "
+                 id="polygon678"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-6.046,-28.34 -9.362,-28.36 -9.346,-32.01 -6.032,-31.42 "
+                 id="polygon680"
+                 style="stroke-width:1.12162" />
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g686">
+                <polygon
+                     points="-9.342,-32.82 -6.244,-32.27 -6.244,-31.87 -9.342,-32.42 "
+                     id="polygon682"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-6.244,-32.27 -5.242,-39.85 -5.242,-39.45 -6.244,-31.87 "
+                     id="polygon684"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="-6.244,-32.27 -9.342,-32.82 -9.309,-40.19 -5.242,-39.85 "
+                 id="polygon688"
+                 style="stroke-width:1.12162" />
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g712">
+                <polygon
+                     points="-4.658,-38.16 2.83,-39.17 2.83,-38.77 -4.658,-37.77 "
+                     id="polygon690"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="2.83,-38.77 2.629,-35.32 -1.168,-35.54 -1.168,-35.94 2.629,-35.72 2.83,-39.17 "
+                     id="polygon692"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-4.923,-36.16 -1.168,-35.94 -1.168,-35.54 -4.923,-35.76 "
+                     id="polygon694"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-1.168,-35.94 -1.01,-38.65 -1.01,-38.25 -1.168,-35.54 "
+                     id="polygon696"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="2.629,-35.32 2.496,-33.04 -2.311,-33.32 -2.311,-33.72 2.496,-33.44 2.629,-35.72 "
+                     id="polygon698"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="2.496,-33.04 2.341,-30.36 -0.021,-30.78 -0.021,-31.18 2.341,-30.76 2.496,-33.44 "
+                     id="polygon700"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-2.434,-31.6 -0.021,-31.18 -0.021,-30.78 -2.434,-31.2 "
+                     id="polygon702"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-0.021,-31.18 0.118,-33.58 0.118,-33.17 -0.021,-30.78 "
+                     id="polygon704"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-5.287,-33.4 -3.915,-33.33 -3.915,-32.92 -5.287,-33 "
+                     id="polygon706"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-3.915,-33.33 -3.754,-36.09 -3.754,-35.69 -3.915,-32.92 "
+                     id="polygon708"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-2.339,-32.83 -2.434,-31.2 -5.455,-31.73 -5.455,-32.13 -2.434,-31.6 -2.339,-33.23 "
+                     id="polygon710"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="-4.444,-39.78 2.83,-39.17 -4.658,-38.16 "
+                 id="polygon714"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-1.01,-38.65 2.83,-39.17 2.629,-35.72 -1.168,-35.94 "
+                 id="polygon716"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-1.168,-35.94 -4.923,-36.16 -4.658,-38.16 -1.01,-38.65 "
+                 id="polygon718"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-2.311,-33.72 -2.178,-36 2.629,-35.72 2.496,-33.44 "
+                 id="polygon720"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="0.118,-33.58 2.496,-33.44 2.341,-30.76 -0.021,-31.18 "
+                 id="polygon722"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-0.021,-31.18 -2.434,-31.6 -2.311,-33.72 0.118,-33.58 "
+                 id="polygon724"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-3.915,-33.33 -5.287,-33.4 -4.923,-36.16 -3.754,-36.09 "
+                 id="polygon726"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-2.339,-33.23 -2.434,-31.6 -5.455,-32.13 -5.287,-33.4 "
+                 id="polygon728"
+                 style="stroke-width:1.12162" />
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g744">
+                <polygon
+                     points="-10.13,-34.31 -10.14,-32.5 -13.27,-32.56 -13.27,-32.96 -10.14,-32.9 -10.13,-34.71 "
+                     id="polygon730"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-10.14,-32.5 -10.15,-29.8 -13.32,-29.86 -13.32,-30.26 -10.15,-30.2 -10.14,-32.9 "
+                     id="polygon732"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-17.62,-30.34 -13.32,-30.26 -13.32,-29.86 -17.62,-29.95 "
+                     id="polygon734"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-13.32,-30.26 -13.23,-34.77 -13.23,-34.38 -13.32,-29.86 "
+                     id="polygon736"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-10.11,-39.86 -10.13,-34.31 -13.42,-34.38 -13.42,-34.78 -10.13,-34.71 -10.11,-40.26 "
+                     id="polygon738"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-16.6,-34.84 -13.42,-34.78 -13.42,-34.38 -16.6,-34.44 "
+                     id="polygon740"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-13.42,-34.78 -13.31,-40.53 -13.31,-40.13 -13.42,-34.38 "
+                     id="polygon742"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="-13.27,-32.96 -13.23,-34.77 -10.13,-34.71 -10.14,-32.9 "
+                 id="polygon746"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-10.14,-32.9 -10.15,-30.2 -13.32,-30.26 -13.27,-32.96 "
+                 id="polygon748"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-13.32,-30.26 -17.62,-30.34 -16.6,-34.84 -13.23,-34.77 "
+                 id="polygon750"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-13.31,-40.53 -10.11,-40.26 -10.13,-34.71 -13.42,-34.78 "
+                 id="polygon752"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-13.42,-34.78 -16.6,-34.84 -15.26,-40.7 -13.31,-40.53 "
+                 id="polygon754"
+                 style="stroke-width:1.12162" />
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g760">
+                <polygon
+                     points="-16.1,-40.18 -16.95,-36.48 -19.22,-37 -19.22,-37.4 -16.95,-36.88 -16.1,-40.58 "
+                     id="polygon756"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-23.01,-30.05 -23.04,-31.71 -23.04,-32.11 -23.01,-30.45 -18.44,-30.36 -16.95,-36.88 -16.95,-36.48 -18.44,-29.96 "
+                     id="polygon758"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="-19.22,-37.4 -17.32,-40.02 -16.1,-40.58 -16.95,-36.88 "
+                 id="polygon762"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-18.44,-30.36 -23.01,-30.45 -23.04,-32.11 -19.22,-37.4 -16.95,-36.88 "
+                 id="polygon764"
+                 style="stroke-width:1.12162" />
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g780">
+                <polygon
+                     points="-10.16,-29 -10.18,-24.99 -13.69,-25.06 -13.69,-25.46 -10.18,-25.39 -10.16,-29.4 "
+                     id="polygon766"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-16.49,-25.51 -13.69,-25.46 -13.69,-25.06 -16.49,-25.11 "
+                     id="polygon768"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-13.69,-25.46 -13.61,-29.47 -13.61,-29.07 -13.69,-25.06 "
+                     id="polygon770"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-16.67,-21.23 -12.48,-19.98 -12.48,-19.58 -16.67,-20.84 "
+                     id="polygon772"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-12.48,-19.98 -12.37,-25.43 -12.37,-25.03 -12.48,-19.58 "
+                     id="polygon774"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-10.18,-24.99 -10.2,-18.89 -12.48,-19.58 -12.48,-19.98 -10.2,-19.3 -10.18,-25.39 "
+                     id="polygon776"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-16.83,-17.6 -10.2,-19.3 -10.2,-18.89 -16.83,-17.2 "
+                     id="polygon778"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="-13.61,-29.47 -10.16,-29.4 -10.18,-25.39 -13.69,-25.46 "
+                 id="polygon782"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-13.69,-25.46 -16.49,-25.51 -16.31,-29.52 -13.61,-29.47 "
+                 id="polygon784"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-12.48,-19.98 -16.67,-21.23 -16.49,-25.51 -12.37,-25.43 "
+                 id="polygon786"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-12.37,-25.43 -10.18,-25.39 -10.2,-19.3 -12.48,-19.98 "
+                 id="polygon788"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-16.83,-17.6 -16.67,-21.23 -10.2,-19.3 "
+                 id="polygon790"
+                 style="stroke-width:1.12162" />
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g804">
+                <polygon
+                     points="-22.99,-29.65 -22.92,-25.76 -22.92,-25.36 -22.99,-29.25 "
+                     id="polygon792"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-17.11,-29.14 -17.28,-25.25 -22.92,-25.36 -22.92,-25.76 -17.28,-25.65 -17.11,-29.54 "
+                     id="polygon794"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-20.51,-23.15 -22.88,-23.54 -22.92,-25.36 -22.92,-25.76 -22.88,-23.94 -20.51,-23.55 "
+                     id="polygon796"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-20.51,-23.55 -20.47,-25.71 -20.47,-25.32 -20.51,-23.15 "
+                     id="polygon798"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-17.28,-25.25 -17.39,-22.64 -19.38,-22.96 -19.38,-23.36 -17.39,-23.04 -17.28,-25.65 "
+                     id="polygon800"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-17.73,-16.97 -22.88,-23.54 -22.88,-23.94 -17.73,-17.37 -17.64,-17.39 -17.39,-23.04 -17.39,-22.64 -17.64,-17 "
+                     id="polygon802"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="-22.92,-25.76 -22.99,-29.65 -17.11,-29.54 -17.28,-25.65 "
+                 id="polygon806"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-20.51,-23.55 -22.88,-23.94 -22.92,-25.76 -20.47,-25.71 "
+                 id="polygon808"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-19.33,-25.69 -17.28,-25.65 -17.39,-23.04 -19.38,-23.36 "
+                 id="polygon810"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-17.39,-23.04 -17.64,-17.39 -17.73,-17.37 -22.88,-23.94 "
+                 id="polygon812"
+                 style="stroke-width:1.12162" />
+        </g>
+        <g
+             fill="#cccccc"
+             stroke="#000000"
+             stroke-width="1.12162"
+             id="g868">
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g822">
+                <polygon
+                     points="17.96,-34.1 17.3,-30.76 9.791,-32.25 9.791,-32.65 17.3,-31.16 17.96,-34.5 "
+                     id="polygon816"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="17.3,-30.76 16.17,-25.03 9.449,-26.36 9.449,-26.76 16.17,-25.43 17.3,-31.16 "
+                     id="polygon818"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="16.17,-25.03 15.08,-19.56 9.175,-21.65 9.175,-22.05 15.08,-19.96 16.17,-25.43 "
+                     id="polygon820"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="9.791,-32.65 10.07,-37.44 17.96,-34.5 17.3,-31.16 "
+                 id="polygon824"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="17.3,-31.16 16.17,-25.43 9.449,-26.76 9.791,-32.65 "
+                 id="polygon826"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="16.17,-25.43 15.08,-19.96 9.175,-22.05 9.449,-26.76 "
+                 id="polygon828"
+                 style="stroke-width:1.12162" />
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g846">
+                <polygon
+                     points="24.85,-24.05 27.23,-23.75 27.23,-23.35 24.85,-23.65 "
+                     id="polygon830"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="22.19,-26.55 21.69,-24.05 16.91,-24.65 16.91,-25.05 21.69,-24.45 22.19,-26.95 "
+                     id="polygon832"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="22.74,-29.32 22.19,-26.55 17.47,-27.48 17.47,-27.88 22.19,-26.95 22.74,-29.71 "
+                     id="polygon834"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="26.41,-28.59 24.85,-23.65 21.69,-24.05 21.69,-24.45 24.85,-24.05 26.41,-28.99 "
+                     id="polygon836"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="18.02,-30.65 23.54,-29.56 23.54,-29.16 18.02,-30.25 "
+                     id="polygon838"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="23.54,-29.56 24.06,-32.23 24.06,-31.82 23.54,-29.16 "
+                     id="polygon840"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="27.07,-30.7 26.41,-28.59 23.54,-29.16 23.54,-29.56 26.41,-28.99 27.07,-31.1 "
+                     id="polygon842"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="30.01,-28.41 27.23,-23.35 27.07,-30.7 27.07,-31.1 27.23,-23.75 30.01,-28.82 "
+                     id="polygon844"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="27.23,-23.75 24.85,-24.05 27.07,-31.1 "
+                 id="polygon848"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="22.19,-26.95 21.69,-24.45 16.91,-25.05 17.47,-27.88 "
+                 id="polygon850"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="17.47,-27.88 18.02,-30.65 22.74,-29.71 22.19,-26.95 "
+                 id="polygon852"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="22.74,-29.71 26.41,-28.99 24.85,-24.05 21.69,-24.45 "
+                 id="polygon854"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="23.54,-29.56 18.02,-30.65 18.72,-34.21 24.06,-32.23 "
+                 id="polygon856"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="24.06,-32.23 27.07,-31.1 26.41,-28.99 23.54,-29.56 "
+                 id="polygon858"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="27.07,-31.1 29.5,-30.2 30.01,-28.82 27.23,-23.75 "
+                 id="polygon860"
+                 style="stroke-width:1.12162" />
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g864">
+                <polygon
+                     points="26.82,-22.6 23.51,-16.57 15.85,-19.29 15.85,-19.69 23.51,-16.98 26.82,-23 "
+                     id="polygon862"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="26.82,-23 23.51,-16.98 15.85,-19.69 16.75,-24.26 "
+                 id="polygon866"
+                 style="stroke-width:1.12162" />
+        </g>
+        <g
+             fill="#cccccc"
+             stroke="#000000"
+             stroke-width="1.12162"
+             id="g948">
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g882">
+                <polygon
+                     points="33.67,12.72 32.25,14.77 29.65,12.98 29.65,12.58 32.25,14.37 33.67,12.32 "
+                     id="polygon870"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="34.37,11.71 33.67,12.72 31.36,11.12 31.36,10.71 33.67,12.32 34.37,11.31 "
+                     id="polygon872"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="39.72,15.41 38.42,19.04 32.25,14.77 32.25,14.37 38.42,18.64 39.72,15.01 "
+                     id="polygon874"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="41.59,10.22 39.72,15.41 32.19,10.2 32.19,9.8 39.72,15.01 41.59,9.818 "
+                     id="polygon876"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="42.65,6.382 41.59,10.22 35.35,6.747 35.35,6.347 41.59,9.818 42.65,5.982 "
+                     id="polygon878"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="43.37,3.804 42.65,6.382 39.74,1.956 39.74,1.556 42.65,5.982 43.37,3.404 "
+                     id="polygon880"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="33.67,12.32 32.25,14.37 29.65,12.58 31.36,10.71 "
+                 id="polygon884"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="31.36,10.71 32.19,9.8 34.37,11.31 33.67,12.32 "
+                 id="polygon886"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="34.37,11.31 39.72,15.01 38.42,18.64 32.25,14.37 "
+                 id="polygon888"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="41.59,9.818 39.72,15.01 32.19,9.8 35.35,6.347 "
+                 id="polygon890"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="35.35,6.347 39.74,1.556 42.65,5.982 41.59,9.818 "
+                 id="polygon892"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="39.74,1.556 41.45,1.272 43.37,3.404 42.65,5.982 "
+                 id="polygon894"
+                 style="stroke-width:1.12162" />
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g902">
+                <polygon
+                     points="33.54,7.539 28.99,12.52 26.09,10.51 26.09,10.11 28.99,12.12 33.54,7.139 "
+                     id="polygon896"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="20.41,6.184 26.09,10.11 26.09,10.51 20.41,6.584 "
+                     id="polygon898"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="26.09,10.11 31.12,4.605 31.12,5.005 26.09,10.51 "
+                     id="polygon900"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="31.12,4.605 33.54,7.139 28.99,12.12 26.09,10.11 "
+                 id="polygon904"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="20.41,6.184 29.22,3.297 29.78,3.204 31.12,4.605 26.09,10.11 "
+                 id="polygon906"
+                 style="stroke-width:1.12162" />
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g910">
+                <polygon
+                     points="38.46,2.167 34.09,6.948 30.74,3.446 30.74,3.046 34.09,6.548 38.46,1.767 "
+                     id="polygon908"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="38.46,1.767 34.09,6.548 30.74,3.046 "
+                 id="polygon912"
+                 style="stroke-width:1.12162" />
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g918">
+                <polygon
+                     points="17.3,18.71 18.09,19.39 18.09,19.79 17.3,19.11 "
+                     id="polygon914"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="18.09,19.39 27.28,11.91 27.28,12.31 18.09,19.79 "
+                     id="polygon916"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="17.3,18.71 18.66,6.758 19.46,6.497 27.28,11.91 18.09,19.39 "
+                 id="polygon920"
+                 style="stroke-width:1.12162" />
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g936">
+                <polygon
+                     points="34.88,28.89 33.19,32.66 27.15,27.5 27.15,27.1 33.19,32.26 34.88,28.49 "
+                     id="polygon922"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="36.99,22.99 34.88,28.89 31.96,25.78 31.96,25.38 34.88,28.49 36.99,22.59 "
+                     id="polygon924"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="33.52,19.63 35.48,21.3 35.48,21.7 33.52,20.03 "
+                     id="polygon926"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="35.48,21.3 37.48,18.96 37.48,19.36 35.48,21.7 "
+                     id="polygon928"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="38.14,19.82 36.99,22.99 35.48,21.7 35.48,21.3 36.99,22.59 38.14,19.42 "
+                     id="polygon930"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="22.35,23.02 27.15,27.1 27.15,27.5 22.35,23.42 "
+                     id="polygon932"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="27.15,27.1 35.34,17.49 35.34,17.89 27.15,27.5 "
+                     id="polygon934"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="34.88,28.49 33.19,32.26 27.15,27.1 30.21,23.51 "
+                 id="polygon938"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="35.45,21.28 36.99,22.59 34.88,28.49 31.96,25.38 "
+                 id="polygon940"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="35.48,21.3 33.52,19.63 35.34,17.49 37.48,18.96 "
+                 id="polygon942"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="37.48,18.96 38.14,19.42 36.99,22.59 35.48,21.3 "
+                 id="polygon944"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="27.15,27.1 22.35,23.02 32.35,15.41 35.34,17.49 "
+                 id="polygon946"
+                 style="stroke-width:1.12162" />
+        </g>
+        <g
+             fill="#cccccc"
+             stroke="#000000"
+             stroke-width="1.12162"
+             id="g1026">
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g952">
+                <polygon
+                     points="34.17,0.851 33.69,-3.903 33.69,-4.303 34.17,0.451 40.35,-0.573 43.34,-4.652 43.34,-4.252 40.35,-0.173 "
+                     id="polygon950"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="43.34,-4.652 40.35,-0.573 34.17,0.451 33.69,-4.303 "
+                 id="polygon954"
+                 style="stroke-width:1.12162" />
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g966">
+                <polygon
+                     points="43.8,-5.069 38.86,-4.891 38.72,-8.784 38.72,-9.184 38.86,-5.291 43.8,-5.469 "
+                     id="polygon956"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="38.62,-12.05 38.72,-9.184 38.72,-8.784 38.62,-11.65 "
+                     id="polygon958"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="38.72,-9.184 43.24,-9.347 43.24,-8.947 38.72,-8.784 "
+                     id="polygon960"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="38.62,-12.05 42.85,-12.04 42.85,-11.64 38.62,-11.65 "
+                     id="polygon962"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="38.86,-4.891 33.61,-4.701 32.93,-11.51 32.93,-11.91 33.61,-5.101 38.86,-5.291 "
+                     id="polygon964"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="43.24,-9.347 43.8,-5.469 38.86,-5.291 38.72,-9.184 "
+                 id="polygon968"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="38.72,-9.184 38.62,-12.05 42.85,-12.04 43.24,-9.347 "
+                 id="polygon970"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="42.8,-12.16 42.85,-12.04 38.62,-12.05 "
+                 id="polygon972"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="38.86,-5.291 33.61,-5.101 32.93,-11.91 38.62,-12.05 "
+                 id="polygon974"
+                 style="stroke-width:1.12162" />
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g984">
+                <polygon
+                     points="25.45,-11.72 28.11,-2.27 28.11,-1.87 25.45,-11.32 "
+                     id="polygon976"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="28.11,-2.27 33.04,-2.765 33.04,-2.365 28.11,-1.87 "
+                     id="polygon978"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="30.35,1.482 29.11,1.689 28.11,-1.87 28.11,-2.27 29.11,1.289 30.35,1.082 "
+                     id="polygon980"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="33.38,0.982 30.35,1.482 30,-2.06 30,-2.46 30.35,1.082 33.38,0.582 "
+                     id="polygon982"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="28.11,-2.27 25.45,-11.72 32.12,-11.89 33.04,-2.765 "
+                 id="polygon986"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="30.35,1.082 29.11,1.289 28.11,-2.27 30,-2.46 "
+                 id="polygon988"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="30,-2.46 33.04,-2.765 33.38,0.582 30.35,1.082 "
+                 id="polygon990"
+                 style="stroke-width:1.12162" />
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g1008">
+                <polygon
+                     points="38.05,-19.95 34.3,-17.66 29.41,-25.66 29.41,-26.06 34.3,-18.06 38.05,-20.35 "
+                     id="polygon992"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="29.41,-26.06 31.54,-28.69 31.54,-28.29 29.41,-25.66 "
+                     id="polygon994"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="34.3,-17.66 25.23,-12.12 24.12,-16.04 24.12,-16.43 25.23,-12.52 34.3,-18.06 "
+                     id="polygon996"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="39.75,-12.48 34.41,-12.35 34.28,-17.64 34.28,-18.04 34.41,-12.75 39.75,-12.88 "
+                     id="polygon998"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="42.47,-12.55 39.75,-12.48 39.61,-17.95 39.61,-18.35 39.75,-12.88 42.47,-12.95 "
+                     id="polygon1000"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="34.41,-12.35 31.44,-12.27 31.37,-15.01 31.37,-15.41 31.44,-12.67 34.41,-12.75 "
+                     id="polygon1002"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="31.44,-12.27 30.05,-12.24 29.98,-15.02 29.98,-15.42 30.05,-12.64 31.44,-12.67 "
+                     id="polygon1004"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="25.23,-12.52 30.05,-12.64 30.05,-12.24 25.23,-12.12 "
+                     id="polygon1006"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="31.54,-28.69 38.05,-20.35 34.3,-18.06 29.41,-26.06 "
+                 id="polygon1010"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="30.82,-28.63 31.54,-28.69 29.41,-26.06 "
+                 id="polygon1012"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="34.3,-18.06 25.23,-12.52 24.12,-16.43 29.41,-26.06 "
+                 id="polygon1014"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="34.41,-12.75 34.28,-18.04 38.05,-20.35 39.61,-18.35 39.75,-12.88 "
+                 id="polygon1016"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="39.61,-18.35 40.83,-16.8 42.47,-12.95 39.75,-12.88 "
+                 id="polygon1018"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="31.37,-15.41 34.34,-15.4 34.41,-12.75 31.44,-12.67 "
+                 id="polygon1020"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="31.44,-12.67 30.05,-12.64 29.98,-15.42 31.37,-15.41 "
+                 id="polygon1022"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="25.23,-12.52 29.98,-15.42 30.05,-12.64 "
+                 id="polygon1024"
+                 style="stroke-width:1.12162" />
+        </g>
+        <g
+             fill="#cccccc"
+             stroke="#000000"
+             stroke-width="1.12162"
+             id="g1142">
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g1042">
+                <polygon
+                     points="-20.98,34.58 -16.79,39.11 -16.79,39.51 -20.98,34.98 "
+                     id="polygon1028"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-16.79,39.11 -12.44,34.89 -12.44,35.29 -16.79,39.51 "
+                     id="polygon1030"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-13.17,39.92 -14.82,41.63 -15.65,40.74 -15.65,40.34 -14.82,41.23 -13.17,39.52 "
+                     id="polygon1032"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-10.56,37.23 -13.17,39.92 -15.13,37.9 -15.13,37.5 -13.17,39.52 -10.56,36.83 "
+                     id="polygon1034"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-21.76,40.93 -23.55,40.79 -24.3,39.03 -24.3,38.63 -23.55,40.39 -21.76,40.53 "
+                     id="polygon1036"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-21.76,40.53 -18.37,37.4 -18.37,37.8 -21.76,40.93 "
+                     id="polygon1038"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-14.82,41.63 -15.21,41.45 -21.76,40.93 -21.76,40.53 -15.21,41.05 -14.82,41.23 "
+                     id="polygon1040"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="-16.79,39.11 -20.98,34.58 -17.21,29.98 -12.44,34.89 "
+                 id="polygon1044"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-13.96,38.7 -13.17,39.52 -14.82,41.23 -15.65,40.34 "
+                 id="polygon1046"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-15.13,37.5 -12.44,34.89 -10.56,36.83 -13.17,39.52 "
+                 id="polygon1048"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-23.55,40.39 -24.3,38.63 -20.98,34.58 -18.37,37.4 -21.76,40.53 "
+                 id="polygon1050"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-18.37,37.4 -14.82,41.23 -15.21,41.05 -21.76,40.53 "
+                 id="polygon1052"
+                 style="stroke-width:1.12162" />
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g1074">
+                <polygon
+                     points="-10,36.66 -12.8,33.78 -12.8,33.38 -10,36.26 -9.337,35.57 -7.632,33.06 -7.632,33.46 -9.337,35.97 "
+                     id="polygon1054"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-14.34,31.79 -12.8,33.38 -12.8,33.78 -14.34,32.19 "
+                     id="polygon1056"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-12.8,33.38 -9.981,30.64 -9.981,31.04 -12.8,33.78 "
+                     id="polygon1058"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-6.594,28.4 -8.084,29.84 -9.945,27.93 -9.945,27.52 -8.084,29.44 -6.594,28 "
+                     id="polygon1060"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-6.836,32.29 -7.632,33.46 -9.659,31.37 -9.659,30.97 -7.632,33.06 -6.836,31.89 "
+                     id="polygon1062"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-5.234,29.94 -6.836,32.29 -8.666,30.41 -8.666,30.01 -6.836,31.89 -5.234,29.54 "
+                     id="polygon1064"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-15.05,27.34 -14.06,28.37 -14.06,28.77 -15.05,27.74 "
+                     id="polygon1066"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-14.06,28.37 -12.65,27 -12.65,27.4 -14.06,28.77 "
+                     id="polygon1068"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-12.48,30.39 -14.34,32.19 -16.7,29.76 -16.7,29.36 -14.34,31.79 -12.48,29.99 "
+                     id="polygon1070"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-8.363,26.39 -11.07,29.02 -13.8,26.22 -13.8,25.82 -11.07,28.62 -8.363,25.99 "
+                     id="polygon1072"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="-7.632,33.06 -9.337,35.57 -10,36.26 -12.8,33.38 -9.981,30.64 "
+                 id="polygon1076"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-12.8,33.38 -14.34,31.79 -11.52,29.05 -9.981,30.64 "
+                 id="polygon1078"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-9.945,27.52 -8.363,25.99 -6.594,28 -8.084,29.44 "
+                 id="polygon1080"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-6.836,31.89 -7.632,33.06 -9.659,30.97 -8.666,30.01 "
+                 id="polygon1082"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-8.666,30.01 -6.594,28 -5.234,29.54 -6.836,31.89 "
+                 id="polygon1084"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-14.06,28.37 -15.05,27.34 -13.8,25.82 -12.65,27 "
+                 id="polygon1086"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-12.48,29.99 -14.34,31.79 -16.7,29.36 -15.05,27.34 "
+                 id="polygon1088"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-13.8,25.82 -11.25,22.71 -8.363,25.99 -11.07,28.62 "
+                 id="polygon1090"
+                 style="stroke-width:1.12162" />
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g1118">
+                <polygon
+                     points="-6.826,39.51 -9.113,44.34 -11.87,43.03 -11.87,42.63 -9.113,43.94 -6.826,39.11 "
+                     id="polygon1092"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-14.06,41.6 -11.87,42.63 -11.87,43.03 -14.06,42 "
+                     id="polygon1094"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-11.87,42.63 -10.14,37.54 -10.14,37.94 -11.87,43.03 "
+                     id="polygon1096"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-9.113,43.94 -6.575,45.14 -6.575,45.54 -9.113,44.34 "
+                     id="polygon1098"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-6.575,45.14 -4.288,40.31 -4.288,40.71 -6.575,45.54 "
+                     id="polygon1100"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-2.21,47.61 -6.575,45.54 -6.575,45.14 -2.21,47.21 -1.677,46.87 -1.67,44.68 -1.67,45.08 -1.677,47.27 "
+                     id="polygon1102"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-1.659,41.95 -1.67,45.08 -3.174,44.37 -3.174,43.97 -1.67,44.68 -1.659,41.55 "
+                     id="polygon1104"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-1.65,39.27 -1.659,41.95 -4.583,40.57 -4.583,40.17 -1.659,41.55 -1.65,38.87 "
+                     id="polygon1106"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-1.645,37.69 -1.65,39.27 -3.542,38.37 -3.542,37.97 -1.65,38.87 -1.645,37.29 "
+                     id="polygon1108"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-1.638,35.64 -1.645,37.69 -3.299,36.9 -3.299,36.5 -1.645,37.29 -1.638,35.24 "
+                     id="polygon1110"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-1.633,34.03 -1.638,35.64 -4.238,34.41 -4.238,34.01 -1.638,35.24 -1.633,33.63 "
+                     id="polygon1112"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-3.21,32.24 -5.203,36.45 -7.846,35.2 -7.846,34.8 -5.203,36.05 -3.21,31.84 "
+                     id="polygon1114"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-5.203,36.45 -6.682,39.58 -10.14,37.94 -10.14,37.54 -6.682,39.17 -5.203,36.05 "
+                     id="polygon1116"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="-10.14,37.54 -6.826,39.11 -9.113,43.94 -11.87,42.63 "
+                 id="polygon1120"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-14.06,41.6 -10.14,37.54 -11.87,42.63 "
+                 id="polygon1122"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-6.575,45.14 -9.113,43.94 -6.826,39.11 -4.288,40.31 "
+                 id="polygon1124"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-1.677,46.87 -2.21,47.21 -6.575,45.14 -5.5,42.87 -1.67,44.68 "
+                 id="polygon1126"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-1.67,44.68 -3.174,43.97 -1.659,41.55 "
+                 id="polygon1128"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-1.65,38.87 -1.659,41.55 -4.583,40.17 -3.542,37.97 "
+                 id="polygon1130"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-3.542,37.97 -2.931,36.68 -1.645,37.29 -1.65,38.87 "
+                 id="polygon1132"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-2.507,34.83 -1.638,35.24 -1.645,37.29 -3.299,36.5 "
+                 id="polygon1134"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-4.238,34.01 -3.21,31.84 -1.633,33.63 -1.638,35.24 "
+                 id="polygon1136"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-7.846,34.8 -4.688,30.16 -3.21,31.84 -5.203,36.05 "
+                 id="polygon1138"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-6.682,39.17 -10.14,37.54 -8.715,36.07 -7.846,34.8 -5.203,36.05 "
+                 id="polygon1140"
+                 style="stroke-width:1.12162" />
+        </g>
+        <g
+             fill="#cccccc"
+             stroke="#000000"
+             stroke-width="1.12162"
+             id="g1258">
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g1176">
+                <polygon
+                     points="11.96,29.33 9.592,35.48 7.258,33.29 7.258,32.89 9.592,35.08 11.96,28.93 "
+                     id="polygon1144"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="4.617,30.4 7.258,32.89 7.258,33.29 4.617,30.8 "
+                     id="polygon1146"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="7.258,32.89 11.57,28.3 11.57,28.7 7.258,33.29 "
+                     id="polygon1148"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="13.45,25.46 11.96,29.33 10.64,27.15 10.64,26.75 11.96,28.93 13.45,25.06 "
+                     id="polygon1150"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="11.39,30.39 14.25,32.82 14.25,33.22 11.39,30.79 "
+                     id="polygon1152"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="14.25,32.82 17.75,28.72 17.75,29.12 14.25,33.22 "
+                     id="polygon1154"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="19.57,30.68 16.07,34.78 14.25,33.22 14.25,32.82 16.07,34.38 19.57,30.28 "
+                     id="polygon1156"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="14.17,37.02 12.86,38.55 11.11,36.91 11.11,36.51 12.86,38.15 14.17,36.62 "
+                     id="polygon1158"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="9.592,35.08 11.11,36.51 11.11,36.91 9.592,35.48 "
+                     id="polygon1160"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="11.11,36.51 14.25,32.82 14.25,33.22 11.11,36.91 "
+                     id="polygon1162"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="19.85,38.15 16.85,42.3 12.86,38.55 12.86,38.15 16.85,41.9 19.85,37.75 "
+                     id="polygon1164"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="23.1,33.68 21.65,35.67 17.98,32.54 17.98,32.14 21.65,35.27 23.1,33.28 "
+                     id="polygon1166"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="25.49,35.72 23.66,37.88 21.43,35.98 21.43,35.58 23.66,37.48 25.49,35.32 "
+                     id="polygon1168"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="27.9,37.78 23.08,40.02 22.32,39.45 22.32,39.05 23.08,39.62 27.9,37.38 "
+                     id="polygon1170"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="16.85,41.9 18.84,41.17 18.84,41.57 16.85,42.3 "
+                     id="polygon1172"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="23.08,40.02 18.84,41.57 17.88,40.88 17.88,40.48 18.84,41.17 23.08,39.62 "
+                     id="polygon1174"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="11.57,28.3 11.96,28.93 9.592,35.08 7.258,32.89 "
+                 id="polygon1178"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="7.258,32.89 4.617,30.4 10.64,26.75 11.57,28.3 "
+                 id="polygon1180"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="13.45,25.06 11.96,28.93 10.64,26.75 "
+                 id="polygon1182"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="14.25,32.82 11.39,30.39 13.45,25.06 17.75,28.72 "
+                 id="polygon1184"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="17.75,28.72 19.57,30.28 16.07,34.38 14.25,32.82 "
+                 id="polygon1186"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="14.17,36.62 12.86,38.15 11.11,36.51 12.34,35.06 "
+                 id="polygon1188"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="11.11,36.51 9.592,35.08 11.39,30.39 14.25,32.82 "
+                 id="polygon1190"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="19.85,37.75 16.85,41.9 12.86,38.15 16,34.47 "
+                 id="polygon1192"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="17.98,32.14 19.57,30.28 23.1,33.28 21.65,35.27 "
+                 id="polygon1194"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="21.43,35.58 23.1,33.28 25.49,35.32 23.66,37.48 "
+                 id="polygon1196"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="25.49,35.32 27.9,37.38 23.08,39.62 22.32,39.05 "
+                 id="polygon1198"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="16.85,41.9 17.88,40.48 18.84,41.17 "
+                 id="polygon1200"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="17.88,40.48 20.11,37.39 23.08,39.62 18.84,41.17 "
+                 id="polygon1202"
+                 style="stroke-width:1.12162" />
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g1232">
+                <polygon
+                     points="16,42.61 12.21,43.99 11.55,40.88 11.55,40.48 12.21,43.59 16,42.21 "
+                     id="polygon1204"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="10.9,37.41 11.55,40.48 11.55,40.88 10.9,37.81 "
+                     id="polygon1206"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="11.55,40.48 13.69,40.03 13.69,40.43 11.55,40.88 "
+                     id="polygon1208"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="12.21,43.99 10.96,44.45 9.8,41.27 9.8,40.87 10.96,44.05 12.21,43.59 "
+                     id="polygon1210"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="10.96,44.45 9.223,45.09 8.062,41.91 8.062,41.51 9.223,44.69 10.96,44.05 "
+                     id="polygon1212"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="9.223,45.09 6.764,45.98 6.061,43.81 6.061,43.41 6.764,45.58 9.223,44.69 "
+                     id="polygon1214"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="10.9,37.81 4.834,40.02 3.436,35.71 3.436,35.31 4.834,39.62 10.9,37.41 "
+                     id="polygon1216"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="2.302,31.8 3.436,35.31 3.436,35.71 2.302,32.2 "
+                     id="polygon1218"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="3.436,35.31 7.202,33.93 7.202,34.33 3.436,35.71 "
+                     id="polygon1220"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="3.54,36.03 0.759,36.93 -0.833,34.1 -0.833,33.7 0.759,36.53 3.54,35.63 "
+                     id="polygon1222"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-0.844,37.05 0.759,36.53 0.759,36.93 -0.844,37.45 "
+                     id="polygon1224"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-0.854,40.06 2.163,39.08 2.163,39.48 -0.854,40.46 "
+                     id="polygon1226"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="6.764,45.98 3.013,47 0.728,39.94 0.728,39.54 3.013,46.6 6.764,45.58 "
+                     id="polygon1228"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="3.013,47 0.002,47.82 -0.877,47.14 -0.877,46.74 0.002,47.42 3.013,46.6 "
+                     id="polygon1230"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="13.69,40.03 16,42.21 12.21,43.59 11.55,40.48 "
+                 id="polygon1234"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="10.9,37.41 13.69,40.03 11.55,40.48 "
+                 id="polygon1236"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="9.8,40.87 11.5,40.25 12.21,43.59 10.96,44.05 "
+                 id="polygon1238"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="10.96,44.05 9.223,44.69 8.062,41.51 9.8,40.87 "
+                 id="polygon1240"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="8.441,42.54 9.223,44.69 6.764,45.58 6.061,43.41 "
+                 id="polygon1242"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="7.202,33.93 10.9,37.41 4.834,39.62 3.436,35.31 "
+                 id="polygon1244"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="3.436,35.31 2.302,31.8 3.907,30.83 7.202,33.93 "
+                 id="polygon1246"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-0.833,33.7 2.302,31.8 3.54,35.63 0.759,36.53 "
+                 id="polygon1248"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-0.844,37.05 -0.833,33.7 0.759,36.53 "
+                 id="polygon1250"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="2.163,39.08 -0.854,40.06 -0.844,37.05 1.282,36.36 "
+                 id="polygon1252"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="0.728,39.54 4.421,38.35 6.764,45.58 3.013,46.6 "
+                 id="polygon1254"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="0.002,47.42 -0.877,46.74 -0.854,40.06 0.728,39.54 3.013,46.6 "
+                 id="polygon1256"
+                 style="stroke-width:1.12162" />
+        </g>
+        <g
+             fill="#cccccc"
+             stroke="#000000"
+             stroke-width="1.12162"
+             id="g1298">
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g1282">
+                <polygon
+                     points="-42.2,15.38 -42.58,13.17 -42.87,3.656 -42.87,3.256 -42.58,12.77 -42.2,14.98 "
+                     id="polygon1260"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-42.2,14.98 -38.97,13.79 -38.97,14.19 -42.2,15.38 "
+                     id="polygon1262"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-35.21,24.34 -39.44,25.91 -40.82,23.49 -40.82,23.09 -39.44,25.51 -35.21,23.95 "
+                     id="polygon1264"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-41.46,19.34 -40.82,23.09 -40.82,23.49 -41.46,19.74 "
+                     id="polygon1266"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-40.82,23.09 -36.02,21.75 -36.02,22.14 -40.82,23.49 "
+                     id="polygon1268"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-42.2,14.98 -41.46,19.34 -41.46,19.74 -42.2,15.38 "
+                     id="polygon1270"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-41.46,19.34 -37.46,17.86 -37.46,18.26 -41.46,19.74 "
+                     id="polygon1272"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-39.44,25.51 -37.58,28.74 -37.58,29.14 -39.44,25.91 "
+                     id="polygon1274"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-37.58,28.74 -33.89,27.5 -33.89,27.9 -37.58,29.14 "
+                     id="polygon1276"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-32.6,31.38 -34.82,32.2 -37.58,29.14 -37.58,28.74 -34.82,31.8 -32.6,30.98 "
+                     id="polygon1278"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-34.82,31.8 -30.54,36.55 -30.54,36.95 -34.82,32.2 "
+                     id="polygon1280"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="-42.2,14.98 -42.58,12.77 -42.87,3.256 -38.97,13.79 "
+                 id="polygon1284"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-36.02,21.75 -35.21,23.95 -39.44,25.51 -40.82,23.09 "
+                 id="polygon1286"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-40.82,23.09 -41.46,19.34 -37.46,17.86 -36.02,21.75 "
+                 id="polygon1288"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-41.46,19.34 -42.2,14.98 -38.97,13.79 -37.46,17.86 "
+                 id="polygon1290"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-37.58,28.74 -39.44,25.51 -35.21,23.95 -33.89,27.5 "
+                 id="polygon1292"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-33.89,27.5 -32.6,30.98 -34.82,31.8 -37.58,28.74 "
+                 id="polygon1294"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-30.54,36.55 -34.82,31.8 -32.6,30.98 "
+                 id="polygon1296"
+                 style="stroke-width:1.12162" />
+        </g>
+        <g
+             fill="#cccccc"
+             stroke="#000000"
+             stroke-width="2.24324"
+             id="g1306">
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="2.24324"
+                 stroke-linejoin="round"
+                 id="g1302">
+                <polygon
+                     points="-31.8,-34.63 -33.9,-37.19 -37.94,-42.16 -40.7,-45.55 -43.75,-43.06 -46.86,-46.87 -46.86,-47.67 -43.75,-43.86 -40.7,-46.34 -37.94,-42.96 -33.9,-37.99 -31.8,-35.43 -26.38,-39.85 -22.62,-42.91 -22.62,-42.11 -26.38,-39.05 "
+                     id="polygon1300"
+                     style="stroke-width:2.24324" />
+            </g>
+            <polygon
+                 points="-28.76,-50.44 -24.71,-45.48 -22.62,-42.91 -26.38,-39.85 -31.8,-35.43 -33.9,-37.99 -37.94,-42.96 -40.7,-46.34 -43.75,-43.86 -46.86,-47.67 -43.81,-50.16 -38.38,-54.58 -34.62,-57.64 -31.52,-53.83 "
+                 id="polygon1304"
+                 style="stroke-width:2.24324" />
+        </g>
+        <g
+             fill="#cccccc"
+             stroke="#000000"
+             stroke-width="1.12162"
+             id="g1360">
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g1330">
+                <polygon
+                     points="-55.86,-9.286 -54.06,-8.465 -54.06,-8.065 -55.86,-8.886 "
+                     id="polygon1308"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-54.06,-8.465 -52.32,-11.76 -52.32,-11.36 -54.06,-8.065 "
+                     id="polygon1310"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-45.51,-7.771 -49.28,-5.886 -52.08,-7.163 -52.08,-7.563 -49.28,-6.286 -45.51,-8.171 "
+                     id="polygon1312"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-44.56,-12.1 -45.51,-7.771 -49.69,-9.972 -49.69,-10.37 -45.51,-8.171 -44.56,-12.5 "
+                     id="polygon1314"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-43.9,-15.11 -44.56,-12.1 -48.83,-14.6 -48.83,-15 -44.56,-12.5 -43.9,-15.51 "
+                     id="polygon1316"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-47.35,-17.53 -45.64,-16.53 -45.64,-16.13 -47.35,-17.13 "
+                     id="polygon1318"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-45.64,-16.53 -43.78,-19.18 -43.78,-18.78 -45.64,-16.13 "
+                     id="polygon1320"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-43.34,-17.64 -43.9,-15.11 -45.64,-16.13 -45.64,-16.53 -43.9,-15.51 -43.34,-18.04 "
+                     id="polygon1322"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-46.61,-18.39 -47.6,-16.7 -50.34,-18.31 -50.34,-18.71 -47.6,-17.1 -46.61,-18.79 "
+                     id="polygon1324"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-45.62,-20.09 -46.61,-18.39 -49.36,-19.99 -49.36,-20.39 -46.61,-18.79 -45.62,-20.49 "
+                     id="polygon1326"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-47.6,-16.7 -48.83,-14.6 -51.57,-16.21 -51.57,-16.61 -48.83,-15 -47.6,-17.1 "
+                     id="polygon1328"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="-54.06,-8.465 -55.86,-9.286 -53.92,-12.6 -52.32,-11.76 "
+                 id="polygon1332"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-50.4,-10.75 -45.51,-8.171 -49.28,-6.286 -52.08,-7.563 "
+                 id="polygon1334"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-47.45,-14.2 -44.56,-12.5 -45.51,-8.171 -49.69,-10.37 "
+                 id="polygon1336"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-43.9,-15.51 -44.56,-12.5 -48.83,-15 -47.35,-17.53 "
+                 id="polygon1338"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-45.64,-16.53 -47.35,-17.53 -45.62,-20.49 -43.78,-19.18 "
+                 id="polygon1340"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-43.78,-19.18 -43.34,-18.04 -43.9,-15.51 -45.64,-16.53 "
+                 id="polygon1342"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-46.61,-18.79 -47.6,-17.1 -50.34,-18.71 -49.36,-20.39 "
+                 id="polygon1344"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-49.36,-20.39 -48.21,-22.35 -45.62,-20.49 -46.61,-18.79 "
+                 id="polygon1346"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-47.6,-17.1 -48.83,-15 -51.57,-16.61 -50.34,-18.71 "
+                 id="polygon1348"
+                 style="stroke-width:1.12162" />
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g1354">
+                <polygon
+                     points="-48.87,-22.41 -51.09,-18.62 -54.51,-20.62 -54.51,-21.02 -51.09,-19.02 -48.87,-22.81 "
+                     id="polygon1350"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-54.31,-13.12 -56.59,-9.22 -62.24,-11.8 -62.24,-12.2 -56.59,-9.62 -54.31,-13.52 "
+                     id="polygon1352"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="-50.98,-24.32 -48.87,-22.81 -51.09,-19.02 -54.51,-21.02 -52.61,-24.27 "
+                 id="polygon1356"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-54.31,-13.52 -56.59,-9.62 -62.24,-12.2 -59.64,-16.64 "
+                 id="polygon1358"
+                 style="stroke-width:1.12162" />
+        </g>
+        <g
+             fill="#cccccc"
+             stroke="#000000"
+             stroke-width="1.12162"
+             id="g1400">
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g1384">
+                <polygon
+                     points="-47.31,13.42 -46.01,15.19 -46.01,15.59 -47.31,13.82 "
+                     id="polygon1362"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-50.2,9.499 -47.31,13.42 -47.31,13.82 -50.2,9.899 "
+                     id="polygon1364"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-47.31,13.42 -46.09,12.53 -46.09,12.93 -47.31,13.82 "
+                     id="polygon1366"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-53.09,5.564 -50.2,9.499 -50.2,9.899 -53.09,5.964 "
+                     id="polygon1368"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-50.2,9.499 -46.27,6.614 -46.27,7.014 -50.2,9.899 "
+                     id="polygon1370"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-47.52,1.865 -48.84,2.837 -51.35,-0.578 -51.35,-0.978 -48.84,2.437 -47.52,1.465 "
+                     id="polygon1372"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-59.04,-2.521 -55.6,2.149 -55.6,2.549 -59.04,-2.121 "
+                     id="polygon1374"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-55.6,2.149 -49.87,-2.07 -49.87,-1.67 -55.6,2.549 "
+                     id="polygon1376"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-65.7,-11.58 -61.04,-5.24 -61.04,-4.84 -65.7,-11.18 "
+                     id="polygon1378"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-61.04,-5.24 -59.45,-8.726 -59.45,-8.326 -61.04,-4.84 "
+                     id="polygon1380"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-59.04,-2.521 -52.04,-5.347 -52.04,-4.947 -59.04,-2.121 "
+                     id="polygon1382"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="-46.01,15.19 -47.31,13.42 -46.09,12.53 "
+                 id="polygon1386"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-47.31,13.42 -50.2,9.499 -46.27,6.614 -46.09,12.53 "
+                 id="polygon1388"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-53.09,5.564 -47.52,1.465 -46.38,3.178 -46.27,6.614 -50.2,9.499 "
+                 id="polygon1390"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-51.35,-0.978 -49.87,-2.07 -47.52,1.465 -48.84,2.437 "
+                 id="polygon1392"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-55.6,2.149 -59.04,-2.521 -52.04,-5.347 -49.87,-2.07 "
+                 id="polygon1394"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-65.7,-11.58 -59.45,-8.726 -61.04,-5.24 "
+                 id="polygon1396"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-52.04,-5.347 -59.04,-2.521 -56.17,-7.23 "
+                 id="polygon1398"
+                 style="stroke-width:1.12162" />
+        </g>
+        <g
+             fill="#cccccc"
+             stroke="#000000"
+             stroke-width="1.12162"
+             id="g1436">
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g1410">
+                <polygon
+                     points="51.04,1.466 54.43,3.382 54.43,3.782 51.04,1.866 "
+                     id="polygon1402"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="54.43,3.382 56.82,-2.563 56.82,-2.163 54.43,3.782 "
+                     id="polygon1404"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="56.82,-2.563 62.07,0.404 62.07,0.804 56.82,-2.163 "
+                     id="polygon1406"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="65.11,-4.571 62.07,0.804 60.26,-3.163 60.26,-3.563 62.07,0.404 65.11,-4.971 "
+                     id="polygon1408"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="54.43,3.382 51.04,1.466 54.29,-1.829 56.82,-2.563 "
+                 id="polygon1412"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="56.82,-2.563 60.26,-3.563 62.07,0.404 "
+                 id="polygon1414"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="65.11,-4.971 62.07,0.404 60.26,-3.563 "
+                 id="polygon1416"
+                 style="stroke-width:1.12162" />
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g1428">
+                <polygon
+                     points="52.27,6.788 50.5,8.58 47.42,5.531 47.42,5.131 50.5,8.18 52.27,6.388 "
+                     id="polygon1418"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="43.78,15.01 46.83,15.86 46.83,16.26 43.78,15.41 "
+                     id="polygon1420"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="46.83,15.86 48.29,10.59 48.29,10.99 46.83,16.26 "
+                     id="polygon1422"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="45.24,9.741 46.24,10.02 46.24,10.42 45.24,10.14 "
+                     id="polygon1424"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="46.24,10.02 47.91,8.805 47.91,9.205 46.24,10.42 "
+                     id="polygon1426"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="52.27,6.388 50.5,8.18 47.42,5.131 49.19,3.337 "
+                 id="polygon1430"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="46.83,15.86 43.78,15.01 45.24,9.741 48.29,10.59 "
+                 id="polygon1432"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="46.24,10.02 45.24,9.741 46.17,6.398 47.91,8.805 "
+                 id="polygon1434"
+                 style="stroke-width:1.12162" />
+        </g>
+        <g
+             fill="#cccccc"
+             stroke="#000000"
+             stroke-width="1.12162"
+             id="g1466">
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g1450">
+                <polygon
+                     points="48.91,-10.5 46.48,-11.05 46.13,-13.44 46.13,-13.84 46.48,-11.45 48.91,-10.9 "
+                     id="polygon1438"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="48.91,-10.9 49.55,-13.78 49.55,-13.38 48.91,-10.5 "
+                     id="polygon1440"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="46.48,-11.45 46.72,-9.725 46.72,-9.325 46.48,-11.05 "
+                     id="polygon1442"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="51.41,-9.942 51.05,-8.352 46.72,-9.325 46.72,-9.725 51.05,-8.752 51.41,-10.34 "
+                     id="polygon1444"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="53.34,-3.236 51.27,-2.632 49.95,-3.478 49.95,-3.878 51.27,-3.032 53.34,-3.636 "
+                     id="polygon1446"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="56.29,-7.701 53.34,-3.236 52.52,-3.625 52.52,-4.025 53.34,-3.636 56.29,-8.101 "
+                     id="polygon1448"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="46.48,-11.45 46.13,-13.84 46.75,-14.41 49.55,-13.78 48.91,-10.9 "
+                 id="polygon1452"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="46.72,-9.725 46.48,-11.45 51.41,-10.34 51.05,-8.752 "
+                 id="polygon1454"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="53.34,-3.636 51.27,-3.032 49.95,-3.878 50.23,-5.11 "
+                 id="polygon1456"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="53.57,-8.712 56.29,-8.101 53.34,-3.636 52.52,-4.025 "
+                 id="polygon1458"
+                 style="stroke-width:1.12162" />
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g1462">
+                <polygon
+                     points="54.53,-3.981 58.26,-5.064 58.26,-4.664 54.53,-3.581 "
+                     id="polygon1460"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="54.53,-3.981 57.34,-8.227 58.26,-5.064 "
+                 id="polygon1464"
+                 style="stroke-width:1.12162" />
+        </g>
+        <g
+             fill="#cccccc"
+             stroke="#000000"
+             stroke-width="1.12162"
+             id="g1626">
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g1594">
+                <polygon
+                     points="-32.55,47.28 -35.28,51.65 -38.21,47.7 -38.21,47.3 -35.28,51.25 -32.55,46.88 "
+                     id="polygon1588"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-41.58,42.75 -38.21,47.3 -38.21,47.7 -41.58,43.15 "
+                     id="polygon1590"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-38.21,47.3 -32.86,43.32 -32.86,43.72 -38.21,47.7 "
+                     id="polygon1592"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="-32.86,43.32 -32.55,46.88 -35.28,51.25 -38.21,47.3 "
+                 id="polygon1596"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-41.58,42.75 -33.97,37.97 -33.26,38.76 -32.86,43.32 -38.21,47.3 "
+                 id="polygon1598"
+                 style="stroke-width:1.12162" />
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g1610">
+                <polygon
+                     points="-38.06,33.84 -40.01,35.6 -43.38,31.87 -43.38,31.47 -40.01,35.2 -38.06,33.44 "
+                     id="polygon1600"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-40.25,35.41 -38.33,37.54 -38.33,37.94 -40.25,35.81 "
+                     id="polygon1602"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-38.33,37.54 -36.14,35.56 -36.14,35.96 -38.33,37.94 "
+                     id="polygon1604"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-34.52,37.77 -37.05,39.36 -38.33,37.94 -38.33,37.54 -37.05,38.96 -34.52,37.37 "
+                     id="polygon1606"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-37.05,39.36 -40.27,41.38 -43.03,38.33 -43.03,37.92 -40.27,40.98 -37.05,38.96 "
+                     id="polygon1608"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="-42.42,29.77 -41.46,29.67 -38.06,33.44 -40.01,35.2 -43.38,31.47 "
+                 id="polygon1612"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-38.33,37.54 -40.25,35.41 -38.06,33.44 -36.14,35.56 "
+                 id="polygon1614"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-36.14,35.56 -34.52,37.37 -37.05,38.96 -38.33,37.54 "
+                 id="polygon1616"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-37.05,38.96 -40.27,40.98 -43.03,37.92 -40.25,35.41 "
+                 id="polygon1618"
+                 style="stroke-width:1.12162" />
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g1622">
+                <polygon
+                     points="-35.73,52.38 -37.52,55.24 -40.1,52.95 -40.1,52.55 -37.52,54.84 -35.73,51.98 "
+                     id="polygon1620"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="-40.1,52.55 -38.06,50.25 -35.73,51.98 -37.52,54.84 "
+                 id="polygon1624"
+                 style="stroke-width:1.12162" />
+        </g>
+        <g
+             fill="#cccccc"
+             stroke="#000000"
+             stroke-width="1.12162"
+             id="g1638">
+            <g
+                 fill="#000000"
+                 stroke="#000000"
+                 stroke-width="1.12162"
+                 stroke-linejoin="round"
+                 id="g1632">
+                <polygon
+                     points="-20.14,44.57 -25.14,50.02 -27.95,47.44 -27.95,47.04 -25.14,49.62 -20.14,44.17 "
+                     id="polygon1628"
+                     style="stroke-width:1.12162" />
+                <polygon
+                     points="-25.14,50.02 -29.2,54.45 -33.17,52.05 -33.17,51.66 -29.2,54.05 -25.14,49.62 "
+                     id="polygon1630"
+                     style="stroke-width:1.12162" />
+            </g>
+            <polygon
+                 points="-27.95,47.04 -21.96,44.03 -20.14,44.17 -25.14,49.62 "
+                 id="polygon1634"
+                 style="stroke-width:1.12162" />
+            <polygon
+                 points="-29.2,54.05 -33.17,51.66 -31.36,48.76 -27.95,47.04 -25.14,49.62 "
+                 id="polygon1636"
+                 style="stroke-width:1.12162" />
+        </g>
+        <g
+             id="g2266"
+             style="stroke-width:4.0935">
+            <path
+                 fill="none"
+                 stroke="#000000"
+                 stroke-width="7.77766"
+                 stroke-linejoin="round"
+                 stroke-linecap="round"
+                 d="m -41.23,-19.11 m 13.46,-9.04 m 10.19,-14.1 19.417,1.64 m 9.213,2.07 20.74,7.72 12.35,15.82 1.72,11.989 M 45.5,2.654 40.58,20.4 34.97,32.98 m -6.27,6.36 -12.92,6.01 -17.066,4.63 -14.384,-6.81 -9.61,-0.76 m -4.84,-2.38 -11.26,-12.48 -2.78,-8.78 -0.57,-18.621 m 0.53,-5.731 2.97,-13.528"
+                 id="path2212"
+                 inkscape:connector-curvature="0" />
+            <g
+                 stroke="#000000"
+                 stroke-width="15.5553"
+                 stroke-linecap="butt"
+                 id="g2218">
+                <line
+                     x1="0.022"
+                     y1="-41.28"
+                     x2="3.73"
+                     y2="-40.45"
+                     id="line2214"
+                     style="stroke-width:15.5553" />
+                <line
+                     x1="9.268"
+                     y1="-39.2"
+                     x2="12.98"
+                     y2="-38.37"
+                     id="line2216"
+                     style="stroke-width:15.5553" />
+            </g>
+            <g
+                 stroke="#000000"
+                 stroke-width="15.5553"
+                 stroke-linecap="butt"
+                 id="g2226">
+                <line
+                     x1="46.13"
+                     y1="-1.13"
+                     x2="46.01"
+                     y2="0.823"
+                     stroke="#ffffff"
+                     stroke-width="15.5553"
+                     stroke-linecap="butt"
+                     id="line2220" />
+                <line
+                     x1="46.37"
+                     y1="-4.923"
+                     x2="46.13"
+                     y2="-1.13"
+                     id="line2222"
+                     style="stroke-width:15.5553" />
+                <line
+                     x1="46.01"
+                     y1="0.823"
+                     x2="45.76"
+                     y2="4.616"
+                     id="line2224"
+                     style="stroke-width:15.5553" />
+            </g>
+            <g
+                 stroke="#000000"
+                 stroke-width="15.5553"
+                 stroke-linecap="butt"
+                 id="g2232">
+                <line
+                     x1="36.86"
+                     y1="32"
+                     x2="34.19"
+                     y2="34.71"
+                     id="line2228"
+                     style="stroke-width:15.5553" />
+                <line
+                     x1="30.43"
+                     y1="38.53"
+                     x2="27.76"
+                     y2="41.24"
+                     id="line2230"
+                     style="stroke-width:15.5553" />
+            </g>
+            <g
+                 stroke="#000000"
+                 stroke-width="15.5553"
+                 stroke-linecap="butt"
+                 id="g2240">
+                <line
+                     x1="-27.18"
+                     y1="42.26"
+                     x2="-28.85"
+                     y2="41.44"
+                     stroke="#ffffff"
+                     stroke-width="15.5553"
+                     stroke-linecap="butt"
+                     id="line2234" />
+                <line
+                     x1="-23.77"
+                     y1="43.94"
+                     x2="-27.18"
+                     y2="42.26"
+                     id="line2236"
+                     style="stroke-width:15.5553" />
+                <line
+                     x1="-28.85"
+                     y1="41.44"
+                     x2="-32.25"
+                     y2="39.76"
+                     id="line2238"
+                     style="stroke-width:15.5553" />
+            </g>
+            <g
+                 stroke="#000000"
+                 stroke-width="15.5553"
+                 stroke-linecap="butt"
+                 id="g2248">
+                <line
+                     x1="-44.79"
+                     y1="-1.75"
+                     x2="-44.6"
+                     y2="-3.726"
+                     stroke="#ffffff"
+                     stroke-width="15.5553"
+                     stroke-linecap="butt"
+                     id="line2242" />
+                <line
+                     x1="-45.14"
+                     y1="2.033"
+                     x2="-44.79"
+                     y2="-1.75"
+                     id="line2244"
+                     style="stroke-width:15.5553" />
+                <line
+                     x1="-44.6"
+                     y1="-3.726"
+                     x2="-44.25"
+                     y2="-7.51"
+                     id="line2246"
+                     style="stroke-width:15.5553" />
+            </g>
+            <circle
+                 cx="31.79"
+                 cy="-30.82"
+                 r="1.9"
+                 stroke="none"
+                 fill="#000000"
+                 id="circle2250"
+                 style="stroke-width:8.24977" />
+            <circle
+                 cx="44.14"
+                 cy="-15"
+                 r="1.9"
+                 stroke="none"
+                 fill="#000000"
+                 id="circle2252"
+                 style="stroke-width:8.24977" />
+            <circle
+                 cx="40.58"
+                 cy="20.4"
+                 r="1.9"
+                 stroke="none"
+                 fill="#000000"
+                 id="circle2254"
+                 style="stroke-width:8.24977" />
+            <circle
+                 cx="15.78"
+                 cy="45.35"
+                 r="1.9"
+                 stroke="none"
+                 fill="#000000"
+                 id="circle2256"
+                 style="stroke-width:8.24977" />
+            <circle
+                 cx="-1.286"
+                 cy="49.98"
+                 r="1.9"
+                 stroke="none"
+                 fill="#000000"
+                 id="circle2258"
+                 style="stroke-width:8.24977" />
+            <circle
+                 cx="-15.67"
+                 cy="43.17"
+                 r="1.9"
+                 stroke="none"
+                 fill="#000000"
+                 id="circle2260"
+                 style="stroke-width:8.24977" />
+            <circle
+                 cx="-41.38"
+                 cy="27.55"
+                 r="1.9"
+                 stroke="none"
+                 fill="#000000"
+                 id="circle2262"
+                 style="stroke-width:8.24977" />
+            <circle
+                 cx="-44.16"
+                 cy="18.77"
+                 r="1.9"
+                 stroke="none"
+                 fill="#000000"
+                 id="circle2264"
+                 style="stroke-width:8.24977" />
+        </g>
+        <g
+             id="g2288"
+             style="stroke-width:4.0935">
+            <path
+                 fill="none"
+                 stroke="#000000"
+                 stroke-width="7.77766"
+                 stroke-linejoin="round"
+                 stroke-linecap="round"
+                 d="m -41.23,-19.11 -10.22,-7.3 0.72,-25.21 16.99,-10.46 16.16,19.83 -8.49,11.75 m -4.11,3.96 -11.05,7.43"
+                 id="path2268"
+                 inkscape:connector-curvature="0" />
+            <g
+                 stroke="#000000"
+                 stroke-width="15.5553"
+                 stroke-linecap="butt"
+                 id="g2276">
+                <line
+                     x1="-27.19"
+                     y1="-28.96"
+                     x2="-28.6"
+                     y2="-27.6"
+                     stroke="#ffffff"
+                     stroke-width="15.5553"
+                     stroke-linecap="butt"
+                     id="line2270" />
+                <line
+                     x1="-24.45"
+                     y1="-31.6"
+                     x2="-27.19"
+                     y2="-28.96"
+                     id="line2272"
+                     style="stroke-width:15.5553" />
+                <line
+                     x1="-28.6"
+                     y1="-27.6"
+                     x2="-31.33"
+                     y2="-24.95"
+                     id="line2274"
+                     style="stroke-width:15.5553" />
+            </g>
+            <circle
+                 cx="-41.23"
+                 cy="-19.11"
+                 r="2.5"
+                 stroke="none"
+                 fill="#000000"
+                 id="circle2278"
+                 style="stroke-width:8.24977" />
+            <circle
+                 cx="-51.45"
+                 cy="-26.41"
+                 r="2.5"
+                 stroke="none"
+                 fill="#000000"
+                 id="circle2280"
+                 style="stroke-width:8.24977" />
+            <circle
+                 cx="-50.72"
+                 cy="-51.62"
+                 r="2.5"
+                 stroke="none"
+                 fill="#000000"
+                 id="circle2282"
+                 style="stroke-width:8.24977" />
+            <circle
+                 cx="-33.74"
+                 cy="-62.08"
+                 r="2.5"
+                 stroke="none"
+                 fill="#000000"
+                 id="circle2284"
+                 style="stroke-width:8.24977" />
+            <circle
+                 cx="-17.58"
+                 cy="-42.25"
+                 r="2.5"
+                 stroke="none"
+                 fill="#000000"
+                 id="circle2286"
+                 style="stroke-width:8.24977" />
+        </g>
+        <g
+             id="labels"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;line-height:normal;font-family:'IM Fell Great Primer', serif;stroke-width:8.24977"
+             fill="#000000">
+            <g
+                 id="GREY ROAD"
+                 transform="translate(-26.46,0.406)"
+                 style="stroke-width:4.0935">
+                <text
+                     text-anchor="middle"
+                     dominant-baseline="middle"
+                     textLength="31.96"
+                     stroke="#ffffff"
+                     stroke-width="4.48647"
+                     id="text2290"
+                     lengthAdjust="spacing">GREY ROAD</text>
+                <text
+                     text-anchor="middle"
+                     dominant-baseline="middle"
+                     textLength="31.96"
+                     id="text2292"
+                     lengthAdjust="spacing"
+                     style="stroke-width:8.24977">GREY ROAD</text>
+            </g>
+            <g
+                 id="THE WELLS"
+                 transform="translate(-35.23,48.86)"
+                 style="stroke-width:4.0935">
+                <text
+                     text-anchor="middle"
+                     dominant-baseline="middle"
+                     textLength="26.36"
+                     stroke="#ffffff"
+                     stroke-width="4.48647"
+                     id="text2295"
+                     lengthAdjust="spacing">THE WELLS</text>
+                <text
+                     text-anchor="middle"
+                     dominant-baseline="middle"
+                     textLength="26.36"
+                     id="text2297"
+                     lengthAdjust="spacing"
+                     style="stroke-width:8.24977">THE WELLS</text>
+            </g>
+            <g
+                 id="EAST QUARTER"
+                 transform="translate(58.44,3.721)"
+                 style="stroke-width:4.0935">
+                <text
+                     text-anchor="middle"
+                     dominant-baseline="middle"
+                     textLength="24.05"
+                     stroke="#ffffff"
+                     stroke-width="4.48647"
+                     id="text2300"
+                     lengthAdjust="spacing">EAST QUARTER</text>
+                <text
+                     text-anchor="middle"
+                     dominant-baseline="middle"
+                     textLength="24.05"
+                     id="text2302"
+                     lengthAdjust="spacing"
+                     style="stroke-width:8.24977">EAST QUARTER</text>
+            </g>
+            <g
+                 id="SALT HEATH"
+                 transform="translate(25.44,-1.128)"
+                 style="stroke-width:4.0935">
+                <text
+                     text-anchor="middle"
+                     dominant-baseline="middle"
+                     textLength="29.16"
+                     stroke="#ffffff"
+                     stroke-width="4.48647"
+                     id="text2305"
+                     lengthAdjust="spacing">SALT HEATH</text>
+                <text
+                     text-anchor="middle"
+                     dominant-baseline="middle"
+                     textLength="29.16"
+                     id="text2307"
+                     lengthAdjust="spacing"
+                     style="stroke-width:8.24977">SALT HEATH</text>
+            </g>
+            <g
+                 id="FORTRESS"
+                 transform="translate(-34.43,-42.61)"
+                 style="stroke-width:4.0935">
+                <text
+                     text-anchor="middle"
+                     dominant-baseline="middle"
+                     textLength="23.3"
+                     stroke="#ffffff"
+                     stroke-width="4.48647"
+                     id="text2310"
+                     lengthAdjust="spacing">FORTRESS</text>
+                <text
+                     text-anchor="middle"
+                     dominant-baseline="middle"
+                     textLength="23.3"
+                     id="text2312"
+                     lengthAdjust="spacing"
+                     style="stroke-width:8.24977">FORTRESS</text>
+            </g>
+        </g>
+    </g>
+</svg>
