@@ -1,5 +1,24 @@
 GOLD SEA
 
+## Creation
+Taken from RGB photo. Rough steps taken
+
+* load into GIMP
+* duplicate layer
+* select new layer
+* select part of map to focus on
+* crop *layer* to selection
+* desaturate
+* threshold into pure black/white
+* touch up
+* repeat, merging each layer down as desired, but always leaving an original layer intact on the bottom
+* once complete, replace original layer with all-white bottom layer
+* flatten
+* export
+* open in Inkscape
+* trace bitmap, multiscans but much faster and cleaner to run with just b&w image
+
+
 ## Size
 Roughly 1225 miles by 950 miles as depicted. Roughly equivalent to a square from Paris to Kiev and Copenhagen to Rome.
 
