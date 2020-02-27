@@ -31,3 +31,6 @@ Medium (ex Aachen) -- Pop: 05-20K, Size: 1 mi^2 [1x1]
 Small (ex Castellation) -- Pop: 1-5k, Size: <1 mi^2
 Village (N/A) -- Pop: 500-1,000, Size: dotted huts
 
+### Sources
+https://medium.com/migration-issues/notes-on-medieval-population-geography-fd062449364f
+
