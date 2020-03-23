@@ -9,7 +9,7 @@
      xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
      xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
      sodipodi:docname="spell_sheet.svg"
-     inkscape:version="1.1-dev (1:0.92.0+devel+202003151438+bca6cd4)"
+     inkscape:version="1.1-dev (1:0.92.0+devel+202003201342+8e19d19)"
      id="svg35"
      version="1.1"
      viewBox="0 0 215.9 279.3"
@@ -360,7 +360,7 @@
          fit-margin-left="0.2"
          fit-margin-top="0.2"
          inkscape:window-maximized="1"
-         inkscape:window-y="1107"
+         inkscape:window-y="27"
          inkscape:window-x="0"
          inkscape:window-height="983"
          inkscape:window-width="1920"
@@ -369,9 +369,9 @@
          showgrid="true"
          inkscape:current-layer="svg35"
          inkscape:document-units="px"
-         inkscape:cy="280.9"
-         inkscape:cx="243.7"
-         inkscape:zoom="0.9899"
+         inkscape:cy="671.5"
+         inkscape:cx="436.3"
+         inkscape:zoom="1.98"
          inkscape:pageshadow="2"
          inkscape:pageopacity="0.0"
          borderopacity="1.0"
@@ -392,7 +392,7 @@
                 <dc:format>image/svg+xml</dc:format>
                 <dc:type
                      rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-                <dc:title></dc:title>
+                <dc:title />
             </cc:Work>
         </rdf:RDF>
     </metadata>
@@ -1826,14 +1826,14 @@
         <text
              id="text2286"
              y="116.1"
-             x="30.46"
+             x="40.43"
              style="font-size:5.6447px;line-height:1;font-family:Viking-Normal;-inkscape-font-specification:Viking-Normal;letter-spacing:0.1323px;word-spacing:1.323px;stroke-width:0.2646"
              xml:space="preserve"><tspan
                  style="stroke-width:0.2646"
                  y="116.1"
-                 x="30.46"
+                 x="40.43"
                  id="tspan2284"
-                 sodipodi:role="line">namename -- celestial direwolf</tspan></text>
+                 sodipodi:role="line">DEHONI -- celestial direwolf</tspan></text>
         <text
              id="text2290"
              y="114.1"
@@ -1883,7 +1883,7 @@
                 <text
                      transform="scale(1.002,0.9981)"
                      xml:space="preserve"
-                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.1577px;line-height:1;font-family:Viking-Normal;-inkscape-font-specification:Viking-Normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264552"
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.158px;line-height:1;font-family:Viking-Normal;-inkscape-font-specification:Viking-Normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264565"
                      x="163.8"
                      y="129.2"
                      id="text854"><tspan
@@ -1891,7 +1891,7 @@
                          id="tspan852"
                          x="163.8"
                          y="129.2"
-                         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Viking-Normal;-inkscape-font-specification:Viking-Normal;text-align:center;text-anchor:middle;stroke-width:0.264552">38</tspan></text>
+                         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Viking-Normal;-inkscape-font-specification:Viking-Normal;text-align:center;text-anchor:middle;stroke-width:0.264565">24</tspan></text>
             </g>
             <g
                  id="g2709"
