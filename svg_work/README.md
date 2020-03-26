@@ -52,3 +52,8 @@ translations: https://www.sarasoueidan.com/blog/svg-transformations/
 https://iconsrepo.com/icons/castle/
 https://game-icons.net/1x1/heavenly-dog/defensive-wall.html
 
+fonts to steal/trace from
+https://www.fontspace.com/category/blood,dripping
+https://www.1001fonts.com/horror+dripping-fonts.html
+
+
