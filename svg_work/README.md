@@ -1,8 +1,8 @@
 # svg_sheets
 
 ## Goals
+- process or code to easily sub in font/colors into same space
 - create graphics / macros (using Inkscape + py functions)
-- create front and back sheet for K (using Inkscape)
 - prune down py code that's useful
 - DOCUMENT it! + document Inkscape/svg useful tips
 
@@ -60,6 +60,10 @@ https://game-icons.net/1x1/heavenly-dog/defensive-wall.html
 iconfinder.com
 https://www.svgrepo.com/vectors/tumble/
 https://www.onlinewebfonts.com/icon/search?q=wolf
+
+color:
+
+
 
 
 
