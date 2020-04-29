@@ -56,11 +56,13 @@ https://www.1001fonts.com/horror+dripping-fonts.html
 
 icons:
 https://iconsrepo.com/icons/castle/
-https://game-icons.net/1x1/heavenly-dog/defensive-wall.html
+https://game-icons.net/
 iconfinder.com
 https://www.svgrepo.com/vectors/tumble/
 https://www.onlinewebfonts.com/icon/search?q=wolf
 https://www.freesvg.org/search
+https://www.flaticon.com/free-icons/color
+
 
 color:
 https://encycolorpedia.com/flags
