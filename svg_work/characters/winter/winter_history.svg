@@ -1,16 +1,410 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="10.6in" height="8.1000004in" viewBox="0 0 269.18765 205.70944" version="1.1" id="svg35" inkscape:version="1.1-dev (1:0.92.0+devel+202004170041+14a48a9)" sodipodi:docname="development_landscape.svg">
-    <defs id="defs29" />
-    <sodipodi:namedview width="10.6in" id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="0.70710678" inkscape:cx="384.1005" inkscape:cy="484.97237" inkscape:document-units="in" inkscape:current-layer="svg35" showgrid="true" units="in" borderlayer="true" inkscape:window-width="1920" inkscape:window-height="983" inkscape:window-x="1820" inkscape:window-y="1467" inkscape:window-maximized="1" fit-margin-top="20" fit-margin-left="20" fit-margin-right="20" fit-margin-bottom="20" lock-margins="false" showborder="true" inkscape:showpageshadow="false" inkscape:document-rotation="0">
-        <inkscape:grid type="xygrid" id="grid310" originx="0" originy="0" units="in" spacingx="6.3487651" spacingy="6.3490564" empspacing="4" color="#8181ff" opacity="0.1254902" />
-    </sodipodi:namedview>
-    <metadata id="metadata32">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>image/svg+xml</dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-                <dc:title></dc:title>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="winter_history.svg"
+   inkscape:version="1.0beta2 (2b71d25, 2019-12-03)"
+   id="svg35"
+   version="1.1"
+   viewBox="0 0 269.18765 205.70944"
+   height="8.1000004in"
+   width="10.6in">
+  <defs
+     id="defs29">
+    <inkscape:perspective
+       id="perspective5702"
+       inkscape:persp3d-origin="134.59383 : 68.569813 : 1"
+       inkscape:vp_z="269.18765 : 102.85472 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 102.85472 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:snap-global="false"
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="false"
+     showborder="true"
+     lock-margins="false"
+     fit-margin-bottom="20"
+     fit-margin-right="20"
+     fit-margin-left="20"
+     fit-margin-top="20"
+     inkscape:window-maximized="1"
+     inkscape:window-y="23"
+     inkscape:window-x="0"
+     inkscape:window-height="713"
+     inkscape:window-width="1280"
+     borderlayer="true"
+     units="in"
+     showgrid="true"
+     inkscape:current-layer="svg35"
+     inkscape:document-units="in"
+     inkscape:cy="775.26462"
+     inkscape:cx="119.29036"
+     inkscape:zoom="0.30261282"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     width="10.6in">
+    <inkscape:grid
+       opacity="0.1254902"
+       color="#8181ff"
+       empspacing="4"
+       spacingy="6.3490564"
+       spacingx="6.3487651"
+       units="in"
+       originy="0"
+       originx="0"
+       id="grid310"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata32">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     inkscape:connector-curvature="0"
+     id="path2192-4"
+     style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#080808;stroke-width:1.3227201;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 48.643336,115.22861 H 27.515144 c -0.04519,0.14003 -0.129672,0.23935 -0.230825,0.23935 -0.147309,0 -0.266812,-0.20566 -0.266812,-0.45723 0,-0.2533 0.119503,-0.4584 0.266812,-0.4584 0.101095,0 0.186022,0.0993 0.231156,0.24052 l 18.392187,0.002 2.735674,-0.002 c 1.041523,-0.30144 1.692198,-1.16571 2.171316,-1.67753 0.555008,-0.59695 0.93678,-1.2198 1.131862,-1.83306 l -0.0101,-68.923085 c 0,0 -0.111125,-0.179273 -0.301536,-0.448173 -0.52973,-0.712304 -1.990981,-2.110957 -2.991452,-2.420181 H 27.515263 c -0.04519,0.1406 -0.129669,0.239965 -0.230794,0.239965 -0.147348,0 -0.266832,-0.2057 -0.266832,-0.457822 0,-0.252763 0.119484,-0.458402 0.266832,-0.458402 0.101183,0 0.185983,0.09928 0.231146,0.240524 l 21.116811,-2.91e-4 c 1.893209,0.734331 2.429159,1.309586 3.313988,2.255955 v 1.048724 m -60.0450474,-0.003 V 41.31707 c 0.2025199,-0.562886 2.8716731,-2.247076 3.4122529,-2.261254 l 10.5601608,1e-5 10.5601407,10e-6 c 0.04629,-0.141189 0.13106,-0.240524 0.231885,-0.240524 0.146619,0 0.267151,0.205659 0.267151,0.458392 0,0.252152 -0.120532,0.457822 -0.267151,0.457822 -0.100765,0 -0.185002,-0.09929 -0.231175,-0.239945 H 5.8708903 -4.6928795 c -0.4057798,0 -1.1560782,0.528442 -1.5686769,0.847124 -0.4125887,0.318693 -0.9811142,0.802941 -1.1006364,0.973076 -0.1195623,0.170114 -0.7364506,1.048144 -0.7364506,1.048144 v 68.923155 c 0.3070944,0.84864 1.3063758,3.46919 3.4061438,3.51033 l 1.5034965,0.002 19.6232741,-0.002 c 0.04629,-0.14118 0.13105,-0.24052 0.231865,-0.24052 0.146628,0 0.267161,0.20508 0.267161,0.45838 0,0.25158 -0.120533,0.45722 -0.267161,0.45722 -0.100755,0 -0.185002,-0.0992 -0.231175,-0.23933 H -4.6925896 c -1.7753962,-0.18332 -3.2793726,-1.90945 -3.4060538,-2.61689 v -1.32919 m 60.0450864,0 -0.0308,1.3335 c -0.0123,0.53155 -1.749347,2.57898 -3.271872,2.61281"
+     sodipodi:nodetypes="ccssscccccccccssscccccccccssscczzzcccccssscccccsc" />
+  <text
+     y="45.124321"
+     x="-3.6994832"
+     style="font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.16202000000000005px;font-family:'Segoe UI Semibold';-inkscape-font-specification:SegoeUI-Semibold;writing-mode:lr-tb;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#463078;stroke-width:1.3227201;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="text444-3"
+     transform="scale(1.2034083,0.83097317)"><tspan
+       style="text-decoration:underline;text-decoration-line:underline;fill:#000000;fill-opacity:1;stroke:#463078;stroke-width:1.3227201;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="-3.6994832 -0.49381328 3.300225 6.7690849 9.9799271 13.3713 16.576906 19.426445 22.100271 25.311098 26.730566 30.354292 33.456768 35.929268"
+       y="45.124321"
+       sodipodi:role="line"
+       id="tspan442-6">CHARACTER DATA</tspan></text>
+  <g
+     id="g294-9"
+     transform="matrix(0.1683767,0,0,-0.32050278,-8.1800535,44.107163)"
+     style="display:inline;fill:#080808;fill-opacity:1;stroke:#080808;stroke-width:5.69391601;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+    <path
+       d="M 0,0 H 357.165"
+       style="fill:#080808;fill-opacity:1;stroke:#080808;stroke-width:5.69391601;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path296-7"
+       inkscape:connector-curvature="0" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.02553999999999990px;line-height:0.8;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.3227201;stroke-miterlimit:4;stroke-dasharray:none"
+     x="-6.5653572"
+     y="54.465908"
+     id="text5571-3"
+     transform="scale(1.1569341,0.86435347)"><tspan
+       sodipodi:role="line"
+       x="-6.5653572"
+       y="54.465908"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82194000000000011px;line-height:0.95;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#0c0b0e;fill-opacity:1;stroke:none;stroke-width:1.3227201;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+       id="tspan2041"><tspan
+   id="tspan14590"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82194000000000011px;line-height:0.95;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#463078;fill-opacity:1;stroke:#463078;stroke-width:1.3227201;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Appearance: </tspan>Born during eclipse; has darker fur; </tspan><tspan
+       sodipodi:role="line"
+       x="-6.5653572"
+       y="57.146751"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82194000000000011px;line-height:0.95;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#0c0b0e;fill-opacity:1;stroke:none;stroke-width:1.3227201;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+       id="tspan14597">      Radiant followers believe it a bad omen</tspan><tspan
+       style="stroke-width:1.3227201;stroke-miterlimit:4;stroke-dasharray:none"
+       sodipodi:role="line"
+       x="-6.5653572"
+       y="59.75589"
+       id="tspan37098" /><tspan
+       sodipodi:role="line"
+       x="-6.5653572"
+       y="62.248028"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82194000000000011px;line-height:0.95;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';stroke-width:1.3227201;stroke-miterlimit:4;stroke-dasharray:none"
+       id="tspan4856"><tspan
+   style="fill:#463078;fill-opacity:1;stroke:#463078;stroke-width:1.3227201;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="tspan14874">Personality Traits: <tspan
+   style="stroke:#000000;stroke-width:1.3227201;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="tspan3551">CHAOTIC NEUTRAL</tspan></tspan> </tspan><tspan
+       sodipodi:role="line"
+       x="-6.5653572"
+       y="64.928871"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82194000000000011px;line-height:0.95;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';stroke-width:1.3227201;stroke-miterlimit:4;stroke-dasharray:none"
+       id="tspan3464"><tspan
+   style="stroke:#00000f;stroke-width:1.3227201;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="tspan3456"> Easily distracted<tspan
+   style="stroke:none;stroke-width:1.3227201;stroke-miterlimit:4;stroke-dasharray:none"
+   id="tspan3536">,</tspan> forgets</tspan> lessons. <tspan
+   style="stroke:#00000f;stroke-width:1.3227201;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="tspan3546">Compulsive</tspan> if </tspan><tspan
+       sodipodi:role="line"
+       x="-6.5653572"
+       y="67.609711"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82194000000000011px;line-height:0.95;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';stroke-width:1.3227201;stroke-miterlimit:4;stroke-dasharray:none"
+       id="tspan3548"> tempted by new things. <tspan
+   style="stroke:#00000f;stroke-width:1.3227201;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="tspan3468">Impatient</tspan>.</tspan><tspan
+       style="stroke-width:1.3227201;stroke-miterlimit:4;stroke-dasharray:none"
+       sodipodi:role="line"
+       x="-6.5653572"
+       y="70.218849"
+       id="tspan3466" /><tspan
+       sodipodi:role="line"
+       x="-6.5653572"
+       y="72.710983"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82194000000000011px;line-height:0.95;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';stroke:#00000f;stroke-width:1.3227201;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="tspan3459"> Self-interested<tspan
+   style="stroke:none;stroke-width:1.3227201;stroke-miterlimit:4;stroke-dasharray:none"
+   id="tspan3493">: items - or people - are </tspan>disposable </tspan><tspan
+       sodipodi:role="line"
+       x="-6.5653572"
+       y="75.39183"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82194000000000011px;line-height:0.95;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';stroke-width:1.3227201;stroke-miterlimit:4;stroke-dasharray:none"
+       id="tspan3491"> once exhausted of new info. Not honor-bound.</tspan><tspan
+       style="stroke-width:1.3227201;stroke-miterlimit:4;stroke-dasharray:none"
+       sodipodi:role="line"
+       x="-6.5653572"
+       y="78.000969"
+       id="tspan3481" /><tspan
+       sodipodi:role="line"
+       x="-6.5653572"
+       y="80.493103"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82194000000000011px;line-height:0.95;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';stroke-width:1.3227201;stroke-miterlimit:4;stroke-dasharray:none"
+       id="tspan12853"><tspan
+   style="stroke:#00000f;stroke-width:1.3227201;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="tspan3488"> Distrusts</tspan> divine beings; <tspan
+   style="stroke:#00000f;stroke-width:1.3227201;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="tspan4896">guarded</tspan> around clerics. </tspan><tspan
+       style="stroke-width:1.3227201;stroke-miterlimit:4;stroke-dasharray:none"
+       sodipodi:role="line"
+       x="-6.5653572"
+       y="83.102242"
+       id="tspan14584" /><tspan
+       sodipodi:role="line"
+       x="-6.5653572"
+       y="85.594376"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82194000000000011px;line-height:0.95;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#463078;fill-opacity:1;stroke:#463078;stroke-width:1.3227201;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="tspan14586">NPCs / Tensions / Quests / Arcs:</tspan><tspan
+       sodipodi:role="line"
+       x="-6.5653572"
+       y="88.275223"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82194000000000011px;line-height:0.95;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';stroke-width:1.3227201;stroke-miterlimit:4;stroke-dasharray:none"
+       id="tspan4782">- The Radiant religious sect &amp; Risers group</tspan><tspan
+       sodipodi:role="line"
+       x="-6.5653572"
+       y="90.956062"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82194000000000011px;line-height:0.95;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';stroke-width:1.3227201;stroke-miterlimit:4;stroke-dasharray:none"
+       id="tspan4784">- Sanni and the Timroq</tspan><tspan
+       sodipodi:role="line"
+       x="-6.5653572"
+       y="93.636909"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82194000000000011px;line-height:0.95;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';stroke-width:1.3227201;stroke-miterlimit:4;stroke-dasharray:none"
+       id="tspan4932">- Monks from The Perch</tspan><tspan
+       sodipodi:role="line"
+       x="-6.5653572"
+       y="96.317749"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82194000000000011px;line-height:0.95;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';stroke-width:1.3227201;stroke-miterlimit:4;stroke-dasharray:none"
+       id="tspan4938">- Scarlet Brotherhood (as Summer Sky)</tspan><tspan
+       sodipodi:role="line"
+       x="-6.5653572"
+       y="98.998596"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82194000000000011px;line-height:0.95;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';stroke-width:1.3227201;stroke-miterlimit:4;stroke-dasharray:none"
+       id="tspan4936">- Tabaxi tavern bard from northern road</tspan><tspan
+       style="stroke-width:1.3227201;stroke-miterlimit:4;stroke-dasharray:none"
+       sodipodi:role="line"
+       x="-6.5653572"
+       y="101.60773"
+       id="tspan4786" /><tspan
+       sodipodi:role="line"
+       x="-6.5653572"
+       y="104.09987"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82194000000000011px;line-height:0.95;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';stroke-width:1.3227201;stroke-miterlimit:4;stroke-dasharray:none"
+       id="tspan4764">- Intellectual curiosity vs religious fanaticism</tspan><tspan
+       sodipodi:role="line"
+       x="-6.5653572"
+       y="106.78072"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82194000000000011px;line-height:0.95;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';stroke-width:1.3227201;stroke-miterlimit:4;stroke-dasharray:none"
+       id="tspan4766">- Other Tabaxi vs wanderlust</tspan><tspan
+       style="stroke-width:1.3227201;stroke-miterlimit:4;stroke-dasharray:none"
+       sodipodi:role="line"
+       x="-6.5653572"
+       y="109.38985"
+       id="tspan4772" /><tspan
+       sodipodi:role="line"
+       x="-6.5653572"
+       y="111.88199"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82194000000000011px;line-height:0.95;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';stroke-width:1.3227201;stroke-miterlimit:4;stroke-dasharray:none"
+       id="tspan12862">- Rescue Clayton's brother</tspan><tspan
+       sodipodi:role="line"
+       x="-6.5653572"
+       y="114.56283"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82194000000000011px;line-height:0.95;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';stroke-width:1.3227201;stroke-miterlimit:4;stroke-dasharray:none"
+       id="tspan3356">- B'hood contact, blank paper, Kemba?</tspan><tspan
+       sodipodi:role="line"
+       x="-6.5653572"
+       y="117.24368"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82194000000000011px;line-height:0.95;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';stroke-width:1.3227201;stroke-miterlimit:4;stroke-dasharray:none"
+       id="tspan3340">- Clear a mine for the Rustbeards?</tspan><tspan
+       style="stroke-width:1.3227201;stroke-miterlimit:4;stroke-dasharray:none"
+       sodipodi:role="line"
+       x="-6.5653572"
+       y="119.85281"
+       id="tspan3336" /><tspan
+       sodipodi:role="line"
+       x="-6.5653572"
+       y="122.34495"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82194000000000011px;line-height:0.95;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';stroke-width:1.3227201;stroke-miterlimit:4;stroke-dasharray:none"
+       id="tspan3338">- Artifacts -- religious significance? Powerful?</tspan><tspan
+       sodipodi:role="line"
+       x="-6.5653572"
+       y="125.02579"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82194000000000011px;line-height:0.95;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';stroke-width:1.3227201;stroke-miterlimit:4;stroke-dasharray:none"
+       id="tspan37176">- Resolution of moral code; develop patience?</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.33639999999999981px;line-height:1.25;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:#05386b;stroke-width:1.3227201;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     x="-4.2569323"
+     y="53.233479"
+     id="text13300"
+     transform="scale(1.2434824,0.80419313)"><tspan
+       sodipodi:role="line"
+       x="-4.2569323"
+       y="53.233479"
+       style="fill:#05386b;fill-opacity:1;stroke:#05386b;stroke-width:1.3227201;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="tspan13306">Male  28<tspan
+   style="font-size:2.16867000000000010px;baseline-shift:sub;stroke-width:1.3227201;stroke-miterlimit:4;stroke-dasharray:none"
+   id="tspan4752">y/o</tspan>  6'1&quot;  155<tspan
+   style="font-size:2.16867000000000010px;baseline-shift:super;stroke-width:1.3227201;stroke-miterlimit:4;stroke-dasharray:none"
+   id="tspan4750">lb</tspan>  (Med)</tspan></text>
+  <text
+     id="text4210"
+     y="146.02831"
+     x="19.040993"
+     style="font-size:3.52723999999999993px;line-height:1.25;font-family:sans-serif;inline-size:222.217;stroke-width:1.3227201;stroke-miterlimit:4;stroke-dasharray:none"
+     xml:space="preserve"><tspan
+       sodipodi:role="line"
+       x="19.040993"
+       y="146.02831"><tspan
+         style="stroke-width:1.32272;stroke-miterlimit:4;stroke-dasharray:none">Radiants are a particularly zealot sect that believe that Azuma promises a lost homeland returned. That we tabaxi migrated </tspan></tspan><tspan
+       sodipodi:role="line"
+       x="19.040993"
+       y="150.43737"><tspan
+         style="stroke-width:1.32272;stroke-miterlimit:4;stroke-dasharray:none">east to follow her, and that answers lay further east. They have a group within the sect known as The Risers, who are </tspan></tspan><tspan
+       sodipodi:role="line"
+       x="19.040993"
+       y="154.84643"><tspan
+         style="stroke-width:1.32272;stroke-miterlimit:4;stroke-dasharray:none">travelers dedicated to bringing that prophecy to fruition by trying to increase Azuma’s power. The Risers are made up of </tspan></tspan><tspan
+       sodipodi:role="line"
+       x="19.040993"
+       y="159.25548"><tspan
+         style="stroke-width:1.32272;stroke-miterlimit:4;stroke-dasharray:none">white to light-yellow Tabaxi (w/ yellow eyes), always dressed in unhooded yellow clothes on which is a crest of their religion </tspan></tspan><tspan
+       sodipodi:role="line"
+       x="19.040993"
+       y="163.66454"><tspan
+         style="stroke-width:1.32272;stroke-miterlimit:4;stroke-dasharray:none">sect, a golden sun/eye combo, hovering above a mountain peak.</tspan><tspan
+         dx="1.2813797"
+         style="stroke-width:1.32272;stroke-miterlimit:4;stroke-dasharray:none" /></tspan><tspan
+       sodipodi:role="line"
+       x="19.040993"
+       y="168.0736"><tspan
+         style="stroke-width:1.32272;stroke-miterlimit:4;stroke-dasharray:none" /></tspan><tspan
+       sodipodi:role="line"
+       x="19.040993"
+       y="172.48266"><tspan
+         style="stroke-width:1.32272;stroke-miterlimit:4;stroke-dasharray:none">Winter's father instantly believes it part of the Artifact of Five Stones,  and demands it for services. The Five Stones are </tspan></tspan><tspan
+       sodipodi:role="line"
+       x="19.040993"
+       y="176.89171"><tspan
+         style="stroke-width:1.32272;stroke-miterlimit:4;stroke-dasharray:none">thought to hold some divine magical power — (this could be unique to Tabaxi/my storyline, or dovetail with one of the </tspan></tspan><tspan
+       sodipodi:role="line"
+       x="19.040993"
+       y="181.30077"><tspan
+         style="stroke-width:1.32272;stroke-miterlimit:4;stroke-dasharray:none">other’s quests) — and are definitely sought after by The Risers faction for something related to Azuma. Usually portrayed in </tspan></tspan><tspan
+       sodipodi:role="line"
+       x="19.040993"
+       y="185.70983"><tspan
+         style="stroke-width:1.32272;stroke-miterlimit:4;stroke-dasharray:none">books/sermons as something like this:</tspan></tspan></text>
+  <g
+     transform="matrix(1.1132225,0,0,1.1132225,-17.425625,-65.83988)"
+     id="g5798">
+    <path
+       style="fill:none;stroke:#666666;stroke-width:1.32272;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 18.60695,310.10356 11.641375,-20.16344 11.727444,20.31252"
+       id="path4333"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ffff00;stroke-width:0.793632;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 19.153803,265.23026 22.275204,22.28089 m -0.0064,-22.28089 -22.268821,22.28595"
+       id="path5718"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path5718-0"
+       d="m 30.29696,264.94467 -0.0036,22.85705 m 15.362614,-11.43327 -30.729227,0.009"
+       style="fill:none;stroke:#ffff00;stroke-width:0.76274;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       d="m 39.557352,275.75726 c -0.151739,-0.1767 -4.198117,-4.88914 -9.25609,-4.88914 -5.105011,0 -9.10081,4.71244 -9.303281,4.88914 -0.252898,0.35342 -0.252898,0.87881 0,1.23221 0.202471,0.23561 4.19827,4.8888 9.303281,4.8888 5.057973,0 9.104351,-4.65319 9.25609,-4.8888 0.303478,-0.3534 0.303478,-0.87879 0,-1.23221"
+       fill="#000000"
+       stroke="black"
+       stroke-width="4.71004"
+       id="path55"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke-width:1.05818;stroke-miterlimit:4;stroke-dasharray:none" />
+    <ellipse
+       cx="30.291361"
+       cy="276.3732"
+       stroke="black"
+       stroke-width="0"
+       fill="#00008b"
+       id="circle57"
+       style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.793632;stroke-miterlimit:4;stroke-dasharray:none"
+       rx="4.3916588"
+       ry="4.3916597" />
+  </g>
+  <g
+     transform="matrix(0.90566035,0,0,0.90566035,-6.3778677,20.962078)"
+     id="g5778">
+    <path
+       style="fill:#008000;stroke:#008000;stroke-width:1.71976;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       d="m -58.362887,265.10044 c -5.351216,-6.9298 -6.591051,-16.04956 -3.262148,-23.99513 0.898375,-2.14428 3.074351,-5.57715 4.209359,-6.64077 l 0.734504,-0.6883 3.385376,3.39496 c 2.549786,2.55701 3.309809,3.49763 3.079227,3.81091 -2.569397,3.49088 -3.33258,5.57436 -3.355625,9.16079 -0.02125,3.30754 0.626843,5.51722 2.388506,8.14359 l 1.342901,2.00206 -3.457415,3.44666 -3.457414,3.44665 z"
+       id="path5765"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffff00;stroke:#ffff00;stroke-width:1.71954;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       d="m -31.430833,238.84314 c -2.211289,-1.75056 -4.421768,-2.43145 -7.9687,-2.45457 -3.548379,-0.0231 -5.427647,0.49211 -7.925189,2.17283 l -1.566013,1.05385 -0.648109,-0.85072 c -0.356457,-0.4679 -1.817132,-2.05709 -3.245942,-3.53153 -1.42881,-1.47445 -2.504893,-2.83119 -2.391298,-3.01499 0.380433,-0.61556 3.925114,-2.86432 5.998244,-3.80532 2.43329,-1.10447 6.870701,-2.07951 9.489737,-2.08518 5.368201,-0.0116 11.267863,2.15533 15.458157,5.6778 l 1.427808,1.20025 -3.348206,3.35862 c -1.841514,1.84725 -3.489663,3.3479 -3.662553,3.33479 -0.172893,-0.0131 -0.900963,-0.48824 -1.617936,-1.05583 z"
+       id="path5767"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:6.5;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       d="m -97.636205,996.23945 -12.918565,-13.12994 5.0619,-7.40319 c 6.58847,-9.63582 9.02228,-17.9907 8.904509,-30.56772 -0.105108,-11.22453 -2.755129,-20.27917 -8.370029,-28.59887 l -3.45017,-5.11218 13.474933,-12.58075 13.474933,-12.58074 3.351123,4.02496 c 5.407335,6.49465 13.795466,23.69251 16.338306,33.49781 1.66836,6.43327 2.355327,12.83064 2.355327,21.93394 0,23.1182 -7.038804,41.93421 -22.612568,60.44753 l -2.691133,3.1991 z"
+       id="path5769"
+       inkscape:connector-curvature="0"
+       transform="matrix(0.26454402,0,0,0.26454402,-0.00617746,0)" />
+    <path
+       style="fill:#0000ff;stroke:#0000ff;stroke-width:6.5;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       d="m -168.71107,1034.3386 c -13.17374,-2.8234 -29.56435,-10.7626 -37.77556,-18.2976 l -2.66446,-2.445 12.57539,-12.6145 c 6.91646,-6.93795 13.00655,-12.61448 13.53354,-12.61448 0.52699,0 2.90184,1.32825 5.27744,2.95165 15.06442,10.29453 42.75647,9.91533 57.53174,-0.78781 l 5.11176,-3.70295 12.58691,13.32919 12.5869,13.3291 -3.35754,3.0817 c -4.344941,3.9879 -15.32571,10.3654 -23.47621,13.6346 -14.92879,5.988 -35.6051,7.6348 -51.92991,4.1361 z"
+       id="path5771"
+       inkscape:connector-curvature="0"
+       transform="matrix(0.26454402,0,0,0.26454402,-0.00617746,0)" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:5.29088;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="path5694"
+       cx="-39.563713"
+       cy="250.23964"
+       r="25.396227" />
+  </g>
 </svg>
