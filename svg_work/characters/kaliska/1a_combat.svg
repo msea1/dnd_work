@@ -13,7 +13,7 @@
    inkscape:export-xdpi="164"
    inkscape:export-filename="/home/mcarruth/Code/personal/dnd_work/svg_work/characters/kaliska/1a_combat.png"
    sodipodi:docname="1a_combat.svg"
-   inkscape:version="1.0.1 (1.0.1+r75)"
+   inkscape:version="1.0.2 (1.0.2+r75+1)"
    id="svg35"
    version="1.1"
    viewBox="0 0 279.34569 215.98883"
@@ -739,19 +739,19 @@
      fit-margin-right="0.2"
      fit-margin-left="0.2"
      fit-margin-top="0.2"
-     inkscape:window-maximized="1"
-     inkscape:window-y="27"
-     inkscape:window-x="2560"
-     inkscape:window-height="1343"
-     inkscape:window-width="2560"
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="740"
+     inkscape:window-height="1403"
+     inkscape:window-width="1820"
      borderlayer="true"
      units="in"
      showgrid="true"
      inkscape:current-layer="layer6"
      inkscape:document-units="in"
-     inkscape:cy="243.65283"
-     inkscape:cx="531.7483"
-     inkscape:zoom="3.7528408"
+     inkscape:cy="175.81869"
+     inkscape:cx="949.82269"
+     inkscape:zoom="5.5842219"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -873,7 +873,7 @@
              id="tspan2417"
              sodipodi:role="line">L0NGSW0RD<tspan
    id="tspan2437"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.72723px;font-family:Norse;-inkscape-font-specification:'Norse Bold';baseline-shift:super">*</tspan></tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.72723px;font-family:Norse;-inkscape-font-specification:'Norse Bold';baseline-shift:super">*M</tspan></tspan><tspan
              id="tspan2429"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Norse;-inkscape-font-specification:'Norse Bold';stroke-width:0.2645"
              y="92.939919"
@@ -883,12 +883,12 @@
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Norse;-inkscape-font-specification:'Norse Bold';stroke-width:0.2645"
              y="96.819839"
              x="2.016"
-             sodipodi:role="line">ATK +6</tspan><tspan
+             sodipodi:role="line">ATK +6 +1</tspan><tspan
              id="tspan2425"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Norse;-inkscape-font-specification:'Norse Bold';stroke-width:0.2645"
              y="100.69976"
              x="2.016"
-             sodipodi:role="line">1d8+5  Sl</tspan></text>
+             sodipodi:role="line">1d8+5+1  Sl</tspan></text>
       </g>
       <g
          id="daggers"
@@ -2402,7 +2402,7 @@
              y="167"
              x="21.530001"
              id="tspan3005-1"
-             sodipodi:role="line">CHANNEL DIVINITY: V0W OF enmITy</tspan><tspan
+             sodipodi:role="line">CHANNEL DIVINITY: VoW 0F enmITy</tspan><tspan
              id="tspan3009-4"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Norse;-inkscape-font-specification:'Norse Bold';stroke-width:0.264518"
              y="171.42931"
@@ -6524,14 +6524,14 @@
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.19871px;line-height:1;font-family:'Fette Mikado';-inkscape-font-specification:'Fette Mikado Bold';font-variation-settings:normal;letter-spacing:0px;word-spacing:0px;vector-effect:none;fill:#808080;fill-opacity:1;stroke:#ffffff;stroke-width:0.0909259;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
-           x="213.11955"
+           x="213.69038"
            y="229.51828"
            id="text2558-3-7"
            transform="scale(1.1809923,0.84674557)"><tspan
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Fette Mikado';-inkscape-font-specification:'Fette Mikado Bold';fill:#808080;fill-opacity:1;stroke:#ffffff;stroke-width:0.0909259;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              sodipodi:role="line"
              id="tspan2556-6-0"
-             x="213.11955"
+             x="213.69038"
              y="229.51828">N</tspan></text>
         <g
            id="g9125"
@@ -6748,24 +6748,24 @@
              transform="scale(1.1760948,0.85027159)"
              id="text2554-9"
              y="240.39339"
-             x="205.87041"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.37881px;line-height:1;font-family:'Fette Mikado';-inkscape-font-specification:'Fette Mikado Bold';font-variation-settings:normal;letter-spacing:0px;word-spacing:0px;vector-effect:none;fill:#046307;fill-opacity:1;stroke:#ffffff;stroke-width:0.649422;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000;"
+             x="206.87933"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.37881px;line-height:1;font-family:'Fette Mikado';-inkscape-font-specification:'Fette Mikado Bold';font-variation-settings:normal;letter-spacing:0px;word-spacing:0px;vector-effect:none;fill:#046307;fill-opacity:1;stroke:#ffffff;stroke-width:0.649422;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
              xml:space="preserve"><tspan
                y="240.39339"
-               x="205.87041"
+               x="206.87933"
                id="tspan2552-3"
                sodipodi:role="line"
-               style="stroke-width:0.649422;fill:#046307;fill-opacity:1;">C</tspan></text>
+               style="fill:#046307;fill-opacity:1;stroke-width:0.649422">C</tspan></text>
         </g>
         <g
            id="g9166"
            transform="translate(-0.23292312,1.3725461)">
           <text
-             transform="matrix(0.30254736,0,0,0.18487994,-31.352513,44.258545)"
+             transform="matrix(0.30254736,0,0,0.18487994,-30.5976,44.258545)"
              id="text2550-6"
              y="755.1972"
              x="902.89081"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.677px;line-height:1;font-family:'Fette Mikado';-inkscape-font-specification:'Fette Mikado Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;opacity:1;vector-effect:none;fill:#a57c00;fill-opacity:1;stroke:#000000;stroke-width:1.16511;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000;stop-opacity:1;"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.677px;line-height:1;font-family:'Fette Mikado';-inkscape-font-specification:'Fette Mikado Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;opacity:1;vector-effect:none;fill:#a57c00;fill-opacity:1;stroke:#000000;stroke-width:1.16511;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000;stop-opacity:1"
              xml:space="preserve"><tspan
                y="755.1972"
                x="902.89081"
@@ -6818,11 +6818,11 @@
            id="g9179"
            transform="translate(-0.86036636,0.109632)">
           <text
-             transform="matrix(0.37072055,0,0,0.20563367,-70.344816,37.937076)"
+             transform="matrix(0.37072055,0,0,0.20563367,-68.739354,37.937076)"
              id="text2558-6"
              y="800.83752"
              x="887.65222"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.7728px;line-height:1;font-family:'Fette Mikado';-inkscape-font-specification:'Fette Mikado Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;opacity:1;vector-effect:none;fill:#960033;fill-opacity:1;stroke:#ffffff;stroke-width:2.64718;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000;stop-opacity:1;"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.7728px;line-height:1;font-family:'Fette Mikado';-inkscape-font-specification:'Fette Mikado Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;opacity:1;vector-effect:none;fill:#960033;fill-opacity:1;stroke:#ffffff;stroke-width:2.64718;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000;stop-opacity:1"
              xml:space="preserve"><tspan
                y="800.83752"
                x="887.65222"
@@ -6978,11 +6978,11 @@
                style="fill:black;stroke:black" />
           </g>
           <text
-             transform="matrix(0.33246088,0,0,0.19059821,-39.359024,45.242423)"
+             transform="matrix(0.33246088,0,0,0.19059821,-38.82387,45.242423)"
              id="text2546-6"
              y="739.82184"
              x="906.79517"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3355px;line-height:1;font-family:'Fette Mikado';-inkscape-font-specification:'Fette Mikado Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;opacity:1;vector-effect:none;fill:#003366;fill-opacity:1;stroke:#ffffff;stroke-width:2.56315;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000;stop-opacity:1;"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3355px;line-height:1;font-family:'Fette Mikado';-inkscape-font-specification:'Fette Mikado Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;opacity:1;vector-effect:none;fill:#003366;fill-opacity:1;stroke:#ffffff;stroke-width:2.56315;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000;stop-opacity:1"
              xml:space="preserve"><tspan
                y="739.82184"
                x="906.79517"

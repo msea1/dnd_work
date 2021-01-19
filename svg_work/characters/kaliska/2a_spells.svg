@@ -16,7 +16,7 @@
    viewBox="0 0 279.35746 214.976"
    version="1.1"
    id="svg35"
-   inkscape:version="1.0.1 (1.0.1+r75)"
+   inkscape:version="1.0.2 (1.0.2+r75+1)"
    sodipodi:docname="2a_spells.svg">
   <defs
      id="defs29">
@@ -184,9 +184,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.097057"
-     inkscape:cx="513.19152"
-     inkscape:cy="330.38552"
+     inkscape:zoom="1.4828432"
+     inkscape:cx="528"
+     inkscape:cy="407.99999"
      inkscape:document-units="in"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -396,7 +396,12 @@
          y="22.2204"
          x="101.6"
          sodipodi:role="line"
-         id="tspan1317"> • KK mask &amp; set of clothes</tspan></text>
+         id="tspan1317"> • KK mask &amp; set of clothes</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L Condensed';stroke-width:0.2645"
+         y="24.865801"
+         x="101.6"
+         sodipodi:role="line"
+         id="tspan1348"> • Mundane longsword to sell</tspan></text>
     <g
        id="g2381"
        transform="matrix(1.1339825,0,0,1.1964387,54.250151,124.49515)">
@@ -457,7 +462,7 @@
            y="49.9272"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:BlackChancery;-inkscape-font-specification:'BlackChancery Bold';text-align:center;text-anchor:middle;fill:#ffd42a;fill-opacity:1;stroke-width:0.2645"
            id="tspan2230"
-           dy="0 0 0 0 0">600.0</tspan></text>
+           dy="0 0 0 0 0">400.0</tspan></text>
     </g>
     <g
        transform="translate(5.0910435,5.0815572)"
@@ -815,21 +820,21 @@
              inkscape:connector-curvature="0"
              transform="matrix(0.31380249,0,0,-0.30573718,-36.04242,24.774435)" />
           <text
-             transform="matrix(1.5800901,0,0,1.4503547,-97.508169,34.661593)"
+             transform="scale(1.0437676,0.95806767)"
              id="text373-8-9-9-3-4-7-5-3"
-             y="-8.698"
-             x="33.759998"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93842px;line-height:1.25;font-family:BlackChancery;-inkscape-font-specification:'BlackChancery Bold';letter-spacing:0.123932px;word-spacing:0px;fill:#ff883e;fill-opacity:1;stroke:#169b62;stroke-width:0.185022;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             y="23.011326"
+             x="-41.477566"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.47594px;line-height:1.25;font-family:BlackChancery;-inkscape-font-specification:'BlackChancery Bold';letter-spacing:0.187612px;word-spacing:0px;fill:#ff883e;fill-opacity:1;stroke:#169b62;stroke-width:0.280092;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              xml:space="preserve"><tspan
-               dy="0 -1.1466881"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:BlackChancery;-inkscape-font-specification:'BlackChancery Bold';fill:#ff883e;fill-opacity:1;stroke:#169b62;stroke-width:0.185022;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               y="-8.698"
-               x="33.759998"
+               dy="0 -1.0596832"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:BlackChancery;-inkscape-font-specification:'BlackChancery Bold';fill:#ff883e;fill-opacity:1;stroke:#169b62;stroke-width:0.280092;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               y="23.011326"
+               x="-41.477566"
                id="tspan371-8-9-3-7-0-0-3-7"
                sodipodi:role="line"><tspan
-   dy="1.1466881"
+   dy="1.0596832"
    id="tspan1404"
-   style="font-size:6.774px">+</tspan>5</tspan></text>
+   style="font-size:7.51075px;stroke-width:0.280092">+</tspan>5</tspan></text>
           <path
              d="M 4.296,-1.95e-4 H -70.24 C -67.42,5.335 -67.42,11.67 -70.24,17.01 H 4.296 C 1.408,11.66 1.408,5.343 4.296,-1.95e-4 Z"
              style="fill:#22688e;fill-opacity:1;stroke:#ffcc00;stroke-width:1.42529;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -4394,15 +4399,15 @@
              d="m 464.911,401.816 -74.24,14.653 76.183,6.735 -1.943,-21.39 z"
              transform="matrix(0.01972542,0,0,0.02025121,-22.467799,195.75295)" />
           <path
-             style="fill:#000000;stroke:#000000;stroke-width:27.1348;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             style="fill:#000000;stroke:#000000;stroke-width:0.595326;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              id="path1843"
              stroke-width="2"
              stroke-opacity="1"
              stroke="black"
              fill="url(#gradient-11)"
              class=""
-             d="m 321.249,402.359 c 6.196,36.786 -13.185,38.92 -33.77,42.212 8.924,2.434 37.68,6.205 45.69,-6.953 6.452,-10.598 -5.676,-27.313 -11.92,-35.26 z"
-             transform="matrix(0.01972542,0,0,0.02025121,-22.467799,195.75295)" />
+             d="m -16.197237,203.90006 c -0.388087,0.17121 -0.312046,0.79157 -0.799224,0.85852 0.211201,0.0495 0.891761,0.1262 1.081331,-0.14141 0.152698,-0.21554 -0.185099,-0.75991 -0.209986,-0.74893 z"
+             sodipodi:nodetypes="scscs" />
           <path
              style="fill:#66ff00;fill-opacity:1;stroke:#000000;stroke-width:3.30912;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              id="path1845"
@@ -6083,5 +6088,33 @@
          x="64.475525"
          y="94.694054"
          style="font-size:4.2327px;fill:#800000;stroke-width:0.264544">X</tspan></text>
+    <ellipse
+       style="fill:#700e57;fill-opacity:1;stroke:#000000;stroke-width:0.172272"
+       id="path1350"
+       cx="65.94442"
+       cy="17.046675"
+       rx="1.1043117"
+       ry="1.1043118" />
+    <ellipse
+       style="fill:#700e57;fill-opacity:1;stroke:#000000;stroke-width:0.172272"
+       id="ellipse1352"
+       cx="65.94442"
+       cy="55.670086"
+       rx="1.1043117"
+       ry="1.1043118" />
+    <ellipse
+       style="fill:#700e57;fill-opacity:1;stroke:#000000;stroke-width:0.172272"
+       id="ellipse1354"
+       cx="65.94442"
+       cy="104.87547"
+       rx="1.1043117"
+       ry="1.1043118" />
+    <ellipse
+       style="fill:#700e57;fill-opacity:1;stroke:#000000;stroke-width:0.172272"
+       id="ellipse1356"
+       cx="65.94442"
+       cy="120.5527"
+       rx="1.1043117"
+       ry="1.1043118" />
   </g>
 </svg>
